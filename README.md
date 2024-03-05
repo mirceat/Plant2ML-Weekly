@@ -1,10 +1,9 @@
 # Plant2ML Weekly Highlights
 
-Weekly top **#AI** and **#MachineLearning** paper highlights.
-We ❤️ reading and discussing scientific papers, especially those that 
-push the boundaries of related fields: **#AutoML**, **#LLM**,
-**#ExpertSystems**, **#DiagramsReasoning** with applications in **#TimeSeries**, 
-**#AutonomicComputing** and **#NLP**.
+Weekly top #ai and #machine-learning paper highlights.
+We ❤️ reading and discussing scientific papers, especially at the nexus of: #llm,
+#expert-systems, #auto-ml, #diagram-reasoning and #autonomic-computing with applications in #time-series, 
+and #nlp.
 
 <!--
 [Subscribe to our newsletter](https://nlpnews.substack.com/) to get a weekly list of top ML papers in your inbox.
