@@ -1,0 +1,40 @@
+@startuml
+
+title Hashtags Graph
+
+card Plant2ML #salmon
+card PlantUML
+card "~#machine-learning" as ML
+card "~#llm" as LLM
+card "~#ai" as AI
+card "~#expert-systems" as ES
+card CLIPS
+card "~#generative-ai" as GenerativeAI
+card Applications
+card "~#time-series" as Timeseries
+card "~#nlp" as nlp
+card "~#finance" as Finance
+card "~#design-patterns" as DesignPatterns
+card "~#autonomic-computing" as Autonomic
+card DOM
+
+PlantUML --> Plant2ML
+ML --> Plant2ML
+ML --> LLM
+AI -> ML
+AI --> ES
+ES --> CLIPS
+ML -> GenerativeAI
+GenerativeAI --> Plant2ML
+Applications -> Timeseries
+Timeseries --> Finance
+Applications --> nlp
+Plant2ML --> Applications
+Plant2ML <- DesignPatterns
+LLM -> Plant2ML
+CLIPS --> Plant2ML
+Autonomic ---> Plant2ML
+Plant2ML <-- DOM
+Applications --> Finance
+
+@enduml
