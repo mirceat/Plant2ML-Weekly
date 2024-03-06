@@ -4,18 +4,18 @@ title Hashtags Graph
 
 card Plant2ML #salmon
 card PlantUML
-card "~#machine-learning" as ML
+card "~#machinelearning" as ML
 card "~#llm" as LLM
 card "~#ai" as AI
-card "~#expert-systems" as ES
+card "~#expertsystems" as ES
 card CLIPS
-card "~#generative-ai" as GenerativeAI
+card "~#generativeai" as GenerativeAI
 card Applications
-card "~#time-series" as Timeseries
+card "~#timeseries" as Timeseries
 card "~#nlp" as nlp
 card "~#finance" as Finance
-card "~#design-patterns" as DesignPatterns
-card "~#autonomic-computing" as Autonomic
+card "~#designpatterns" as DesignPatterns
+card "~#autonomiccomputing" as Autonomic
 card DOM
 
 PlantUML --> Plant2ML
