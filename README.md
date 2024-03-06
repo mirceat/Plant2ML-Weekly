@@ -4,6 +4,8 @@ Weekly top #ai and #machine-learning paper highlights.
 We ❤️ reading and discussing scientific papers, especially at the nexus of: #llm,
 #expert-systems, #auto-ml, #diagrammatic-reasoning and #autonomic-computing with applications in #time-series and #nlp.
 
+![Hashtags Graph](./diagrams/hashtags-Hashtags_Graph.png)
+
 <!--
 [Subscribe to our newsletter](https://nlpnews.substack.com/) to get a weekly list of top ML papers in your inbox.
 -->
