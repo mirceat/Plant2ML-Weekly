@@ -1,0 +1,3 @@
+# Ignore IDE specific settings
+.idea/
+*.iml
