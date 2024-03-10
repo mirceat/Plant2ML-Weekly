@@ -17,7 +17,7 @@ Here is the weekly series:
 - [Top References of the Week (February 26 - March 3)](./#top-references-of-the-week-february-26---march-3---2024)
 - [Top References of the Week (February 19 - February 25)](./#top-references-of-the-week-february-19---february-25---2024)
 
-[Follow us on Twitter](https://twitter.com/mobilepixel)
+Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://github.com/mirceat/Plant2ML-Weekly).
 
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
