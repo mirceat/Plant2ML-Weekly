@@ -1,7 +1,7 @@
-# Plant2<span style="color:red">ML</span> Weekly Highlights
+# 🏭Plant2<span style="color:red">ML</span> Weekly Highlights
 
 Weekly top #ai and #machinelearning paper highlights.
-We ❤️ reading and discussing scientific papers, especially at the nexus of: #llm,
+We ❤️ reading and discussing scientific papers, especially at the intersection of: #llm,
 #expertsystems, #automl, #diagrammaticreasoning and #autonomiccomputing with applications in #timeseries and #nlp.
 
 ![Hashtags Graph](./diagrams/hashtags-Hashtags_Graph.png)
@@ -34,8 +34,8 @@ Here is the weekly series:
 | 6) **Yao 2023** - REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS                                                                                                                                             | #llm | [Paper](https://arxiv.org/pdf/2210.03629.pdf) [GitHub](https://react-lm.github.io/) [Blog](https://blog.research.google/2022/11/react-synergizing-reasoning-and-acting.html)
 | 7) **TradingGPT** - Discover TradingGPT: Multi-Agent System with Layered Memory and Distinct Characters                                                                                                                  | #finance #llm | [Blog](https://medium.com/@basics.machinelearning/discover-tradinggpt-multi-agent-system-with-layered-memory-and-distinct-characters-3070684812a8)
 | 8) **Li 2023** - TradingGPT: Multi-Agent System with Layered Memory and Distinct Characters for Enhanced Financial Trading Performance                                                                                   | #finance #llm | [Paper](https://arxiv.org/pdf/2309.03736.pdf)
-| 9) **ChatGPT Prompt Engineering for Developers** - from DeepLearning.AI by Andrew Ing and Isa Fulford (1 hour)                                                                                                           | #course #llm | [Course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-| 10) **Notebooks to Python** - Bridging the Gap: Converting Data Science Notebooks into Production ML Code | #python | [Blog](https://marvelousmlops.substack.com/p/bridging-the-gap-converting-data?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true)
+| 9) **ChatGPT Prompt Engineering for Developers** - from DeepLearning.AI by Andrew Ng and Isa Fulford (1 hour)                                                                                                            | #course #llm | [Course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+| 10) **Notebooks to Python** - Bridging the Gap: Converting Data Science Notebooks into Production ML Code                                                                                                                | #python | [Blog](https://marvelousmlops.substack.com/p/bridging-the-gap-converting-data?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true)
 
 ## Top References of the Week (February 26 - March 3) - 2024
 | **Reference**                                                                                                                                                                                               | **Hashtag**          | **Links**                                                                                                                                                                                                             |
