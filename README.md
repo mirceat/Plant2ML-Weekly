@@ -13,6 +13,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top References of the Week (March 11 - March 17)](./#top-references-of-the-week-march-11---march-17---2024)
 - [Top References of the Week (March 4 - March 10)](./#top-references-of-the-week-march-4---march-10---2024)
 - [Top References of the Week (February 26 - March 3)](./#top-references-of-the-week-february-26---march-3---2024)
 - [Top References of the Week (February 19 - February 25)](./#top-references-of-the-week-february-19---february-25---2024)
