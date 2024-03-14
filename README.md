@@ -1,4 +1,4 @@
-# 🏭Plant2<span style="color:red">ML</span> Weekly Highlights
+# 🏭 Plant2<span style="color:red">ML</span> Weekly Highlights
 
 Weekly top #ai and #machinelearning paper highlights.
 We ❤️ reading and discussing scientific papers, especially at the intersection of: #llm,
