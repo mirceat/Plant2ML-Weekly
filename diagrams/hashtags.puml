@@ -14,7 +14,7 @@ card "~#timeseries" as Timeseries
 card "~#nlp" as nlp
 card "~#finance" as Finance
 card "~#designpatterns" as DesignPatterns
-card "~#autonomiccomputing" as Autonomic
+card "Autonomic Computing\n~#autonomic" as Autonomic
 card DOM
 
 PlantUML -> Plant2ML
@@ -34,5 +34,6 @@ ES --> Plant2ML
 Autonomic --> Plant2ML
 Plant2ML <-- DOM
 Applications --> Finance
+nlp -> Finance
 
 @enduml
