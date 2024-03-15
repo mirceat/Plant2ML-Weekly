@@ -1,8 +1,6 @@
 # 🏭 Plant2<span style="color:red">ML</span> Weekly Highlights
 
-Weekly top #ai and #machinelearning paper highlights.
-We ❤️ reading and discussing scientific papers, especially at the intersection of: #llm,
-#expertsystems, #automl, #diagrammaticreasoning and #autonomiccomputing with applications in #timeseries and #nlp.
+Explore our weekly top highlights in #machinelearning, featuring PlantUML-powered #diagrams. We ❤️ reading and discussing scientific papers, especially at the intersection of: #llm, #expertsystems, #automl and #autonomic computing with applications in #timeseries and #nlp.
 
 ![Hashtags Graph](./diagrams/hashtags.png)
 
