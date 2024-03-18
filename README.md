@@ -77,3 +77,11 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 8) **Riley 2022** - Adventures in Rule-Based Programming: A CLIPS Tutorial | #expertsystems | [Amazon](https://www.amazon.ca/Adventures-Rule-Based-Programming-CLIPS-Tutorial/dp/B09ZCL2VMM)
 | 9) **Giarratano 2004** - CLIPS - Expert Systems: Principles and Programming | #expertsystems | [Amazon](https://www.amazon.ca/Expert-Systems-Programming-Joseph-Giarratano/dp/0534384471)
 | 10) **Selic 2023** - Real-Time Object-Oriented Modeling | #fsm           | [Amazon](https://www.amazon.ca/Real-Time-Object-Oriented-Modeling-Bran-Selic/dp/3911081014)
+
+---
+We employ a mix of AI-driven technologies, data analytics, and manual selection processes to compile the lists of papers, drawing inspiration from the format and layout seen at [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week).
+
+<!--
+TODO
+Join our [Discord](https://discord.gg/FzNtjEK9dg).
+-->
