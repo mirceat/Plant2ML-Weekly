@@ -11,6 +11,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top References of the Week (April 1 - April 7)](./#top-references-of-the-week-april-1---april-7---2024)
 - [Top References of the Week (March 25 - March 31)](./#top-references-of-the-week-march-25---march-31---2024)
 - [Top References of the Week (March 18 - March 24)](./#top-references-of-the-week-march-18---march-24---2024)
 - [Top References of the Week (March 11 - March 17)](./#top-references-of-the-week-march-11---march-17---2024)
@@ -23,6 +24,11 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+## Top References of the Week (April 1 - April 7) - 2024
+| **Reference**                                                                                                                                                            | **Hashtag**     | **Links** |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------|
+| 1) **DSPy**: - Not Your Average Prompt Engineering | #llm | [Blog](https://jina.ai/news/dspy-not-your-average-prompt-engineering)
 
 ## Top References of the Week (March 25 - March 31) - 2024
 | **Reference**                                                                                                                                                            | **Hashtag**     | **Links** |
