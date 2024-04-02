@@ -29,6 +29,10 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | **Reference**                                                                                                                                                            | **Hashtag**     | **Links** |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------|
 | 1) **DSPy**: - Not Your Average Prompt Engineering | #llm | [Blog](https://jina.ai/news/dspy-not-your-average-prompt-engineering)
+| 2) Edge 365: - Understanding LLM Reasoning with **Reflexion** | #llm #reasoning | [Blog](https://thesequence.substack.com/p/edge-365-understanding-llm-reasoning) [GitHub](https://github.com/FlowiseAI/Flowise) [Flowiseai](https://flowiseai.com/)
+| 3) **Shinn 2023 - Reflexion**: Language Agents with Verbal Reinforcement Learning | #llm #reasoning | [Paper](https://arxiv.org/abs/2303.11366) [GitHub](https://github.com/noahshinn/reflexion)
+| 4) Edge 367: - Understanding **Multi-Chain Reasoning** in LLMs One of the most interesting techniques used for more complex reasoning in LLMs. | #llm #reasoning | [Blog](https://thesequence.substack.com/p/edge-367-understanding-multi-chain)
+| 5) Yoran 2023 - Answering Questions by Meta-Reasoning over **Multiple Chains of Thought** | #llm #reasoning | [Paper](https://arxiv.org/abs/2304.13007) [GitHub](https://github.com/oriyor/reasoning-on-cots)
 
 ## Top References of the Week (March 25 - March 31) - 2024
 | **Reference**                                                                                                                                                            | **Hashtag**     | **Links** |
