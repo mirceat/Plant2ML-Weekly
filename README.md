@@ -33,6 +33,8 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 3) **Shinn 2023 - Reflexion**: Language Agents with Verbal Reinforcement Learning | #llm #reasoning | [Paper](https://arxiv.org/abs/2303.11366) [GitHub](https://github.com/noahshinn/reflexion)
 | 4) Edge 367: - Understanding **Multi-Chain Reasoning** in LLMs One of the most interesting techniques used for more complex reasoning in LLMs. | #llm #reasoning | [Blog](https://thesequence.substack.com/p/edge-367-understanding-multi-chain)
 | 5) Yoran 2023 - Answering Questions by Meta-Reasoning over **Multiple Chains of Thought** | #llm #reasoning | [Paper](https://arxiv.org/abs/2304.13007) [GitHub](https://github.com/oriyor/reasoning-on-cots)
+| 6) Edge 369: - LLM Reasoning with **Chain-Of-Code** Can LLMs use code generation to reason through complex tasks? | #llm #reasoning | [Blog](https://thesequence.substack.com/p/edge-369-llm-reasoning-with-chain) [Helicone](https://www.helicone.ai/) [GitHub](https://github.com/Helicone/helicone)
+| 7) Li 2023 - **Chain of Code**: Reasoning with a Language Model-Augmented Code Emulator | #llm #reasoning | [Website](https://chain-of-code.github.io/) [Paper](https://chain-of-code.github.io/paper.pdf) [Colab](https://colab.research.google.com/github/google-research/google-research/blob/master/code_as_policies/coc_demo.ipynb)
 
 ## Top References of the Week (March 25 - March 31) - 2024
 | **Reference**                                                                                                                                                            | **Hashtag**     | **Links** |
