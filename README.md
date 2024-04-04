@@ -36,6 +36,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 6) Edge 369: - LLM Reasoning with **Chain-Of-Code** Can LLMs use code generation to reason through complex tasks?                              | #llm #reasoning      | [Blog](https://thesequence.substack.com/p/edge-369-llm-reasoning-with-chain) [Helicone](https://www.helicone.ai/) [GitHub](https://github.com/Helicone/helicone)
 | 7) Li 2023 - **Chain of Code**: Reasoning with a Language Model-Augmented Code Emulator                                                        | #llm #reasoning      | [Website](https://chain-of-code.github.io/) [Paper](https://chain-of-code.github.io/paper.pdf) [Colab](https://colab.research.google.com/github/google-research/google-research/blob/master/code_as_policies/coc_demo.ipynb)
 | 8) **Generative AI** - Design Patterns.                                                                                                        | #llm #designpatterns | [Website](https://htmlpreview.github.io/?https://github.com/lakshmanok/generative-ai-design-patterns/blob/main/catalog.html)
+| 9) **replit** - Building LLMs for Code Repair. Replit represents code as a sequence of **Operational Transformations (OTs)**.                  | #llm | [Blog](https://blog.replit.com/code-repair)
 
 ## Top References of the Week (March 25 - March 31) - 2024
 | **Reference**                                                                                                                                                            | **Hashtag**     | **Links** |
