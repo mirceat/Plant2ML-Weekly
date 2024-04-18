@@ -10,7 +10,8 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
-
+- [Top References of the Week (April 15 - April 21)](./#top-references-of-the-week-april-15---april-21---2024)
+- [Top References of the Week (April 8 - April 14)](./#top-references-of-the-week-april-8---april-14---2024)
 - [Top References of the Week (April 1 - April 7)](./#top-references-of-the-week-april-1---april-7---2024)
 - [Top References of the Week (March 25 - March 31)](./#top-references-of-the-week-march-25---march-31---2024)
 - [Top References of the Week (March 18 - March 24)](./#top-references-of-the-week-march-18---march-24---2024)
@@ -24,6 +25,11 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+## Top References of the Week (April 8 - April 14) - 2024
+| **Reference**                                                              | **Hashtag**      | **Links**                                                                                                                                                                                                                    |
+|----------------------------------------------------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) **Côté 2019: - TextWorld**: A Learning Environment for Text-based Games | | [Paper](https://arxiv.org/abs/1806.11532)
+| 2) **Ezenkwu 2023** - Towards Expert Systems for Improved Customer Services Using ChatGPT as an Inference Engine | #expertsystems #llm | [Paper](https://ieeexplore-ieee-org.proxy.bib.uottawa.ca/abstract/document/10248647)
 
 ## Top References of the Week (April 1 - April 7) - 2024
 | **Reference**                                                                                                                                  | **Hashtag**          | **Links**                                                                                                                                                                                                                    |
