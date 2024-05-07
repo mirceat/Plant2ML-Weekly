@@ -33,6 +33,8 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | **Reference**                                                                                                                   | **Hashtag**                 | **Links**                                                                                                                                         |
 |---------------------------------------------------------------------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1) **Wu 2024** - A Model Transformation Method Based on Simulink/Stateflow for Validation of UML Statechart Diagram | #fsm #toread | [Paper](https://www.researchsquare.com/article/rs-3863475/v1)
+| 2) **DRAKON** is a visual language from the aerospace industry for representing algorithms, processes, and procedures. The goal of DRAKON is to make procedures easy to comprehend. | #diagrams | [Website](https://drakonhub.com/) [YouTube](https://www.youtube.com/watch?v=CIohJn7fAhU)
+| 3) **Wu 2023** - A brief overview of ChatGPT: The history, status quo and potential future development | #llm #toread | [Paper](https://ieeexplore.ieee.org/abstract/document/10113601)
 
 ## Top References of the Week (April 29 - May 5) - 2024
 | **Reference**                                                                                                                   | **Hashtag**                 | **Links**                                                                                                                                         |
