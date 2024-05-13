@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (May 13 - May 19)](./#top-references-of-the-week-may-13---may-19---2024)
 - [Top References of the Week (May 6 - May 12)](./#top-references-of-the-week-may-6---may-12---2024)
 - [Top References of the Week (April 29 - May 5)](./#top-references-of-the-week-april-29---may-5---2024)
 - [Top References of the Week (April 22 - April 28)](./#top-references-of-the-week-april-22---april-28---2024)
@@ -28,6 +29,13 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+## Top References of the Week (May 13 - May 19) - 2024
+| **Reference**                                                                                                                                                                                                     | **Hashtag**      | **Links**                                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) The Decoder - Magnific AI co-founder predicts the rise of **"one-person unicorns"** propelled by AI after exit | #llm | [Blog](https://the-decoder.com/magnific-ai-co-founder-predicts-the-rise-of-one-person-unicorns-propelled-by-ai-after-exit/) [Website](https://magnific.ai/)
+| 2) IBM - An architectural blueprint for **autonomic computing**. | #autonomic | [Whitepaper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=0e99837d9b1e70bb35d516e32ecfc345cd30e795)
+
 
 ## Top References of the Week (May 6 - May 12) - 2024
 | **Reference**                                                                                                                                                                                                     | **Hashtag**      | **Links**                                                                                                                                         |
