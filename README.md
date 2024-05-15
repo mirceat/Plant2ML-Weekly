@@ -31,11 +31,12 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 -->
 
 ## Top References of the Week (May 13 - May 19) - 2024
-| **Reference**                                                                                                                                                                                                     | **Hashtag**      | **Links**                                                                                                                                         |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1) The Decoder - Magnific AI co-founder predicts the rise of **"one-person unicorns"** propelled by AI after exit | #llm | [Blog](https://the-decoder.com/magnific-ai-co-founder-predicts-the-rise-of-one-person-unicorns-propelled-by-ai-after-exit/) [Website](https://magnific.ai/)
-| 2) IBM - An architectural blueprint for **autonomic computing**. | #autonomic | [Whitepaper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=0e99837d9b1e70bb35d516e32ecfc345cd30e795)
-
+| **Reference**                                                                                                     | **Hashtag**               | **Links**                                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) The Decoder - Magnific AI co-founder predicts the rise of **"one-person unicorns"** propelled by AI after exit | #llm                      | [Blog](https://the-decoder.com/magnific-ai-co-founder-predicts-the-rise-of-one-person-unicorns-propelled-by-ai-after-exit/) [Website](https://magnific.ai/)
+| 2) IBM - An architectural blueprint for **autonomic computing**.                                                  | #autonomic                | [Whitepaper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=0e99837d9b1e70bb35d516e32ecfc345cd30e795)
+| 3) **Pang 2024 - AI2Apps**: A Visual IDE for Building LLM-based AI Agent Applications                             | #llm #etl #diagrams #uiux | [Paper](https://arxiv.org/abs/2404.04902) [YouTube](https://www.youtube.com/watch?v=tQTqxk1LzzU) [Website](https://www.ai2apps.com//-homekit/home.html) [GitHub](https://github.com/Avdpro/ai2apps)
+| 4) Model Explorer: **Graph visualization** for large model development                                            | #diagrams #etl #toread   | [Blog](https://research.google/blog/model-explorer/)
 
 ## Top References of the Week (May 6 - May 12) - 2024
 | **Reference**                                                                                                                                                                                                     | **Hashtag**      | **Links**                                                                                                                                         |
