@@ -39,6 +39,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 4) Model Explorer: **Graph visualization** for large model development                                            | #diagrams #etl | [Blog](https://research.google/blog/model-explorer/)
 | 5) 8 Google Employees Invented Modern AI. Here’s the Inside Story They met by chance, got hooked on an idea, and wrote the “**Transformers**” paper—the most consequential tech breakthrough in recent history. | #llm | [Wired](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
 | 6) Scalable **Graph Reasoning with LLMs** | #llm | [Blog](https://medium.com/codex/reasoning-on-graphs-with-llms-805751ab5bd1)
+| 7) **Large Language Model Performance in Time Series Analysis** - How do major LLMs stack up at detecting anomalies or movements in the data when given a large set of time series data within the context window? | #llm #timeseries | [Blog](https://towardsdatascience.com/large-language-model-performance-in-time-series-analysis-4d274b480e24) [GitHub](https://github.com/Arize-ai/LLMTest_NeedleInAHaystack/tree/main)
 
 ## Top References of the Week (May 6 - May 12) - 2024
 | **Reference**                                                                                                                                                                                                     | **Hashtag**      | **Links**                                                                                                                                         |
