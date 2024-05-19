@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (May 20 - May 26)](./#top-references-of-the-week-may-20---may-26---2024)
 - [Top References of the Week (May 13 - May 19)](./#top-references-of-the-week-may-13---may-19---2024)
 - [Top References of the Week (May 6 - May 12)](./#top-references-of-the-week-may-6---may-12---2024)
 - [Top References of the Week (April 29 - May 5)](./#top-references-of-the-week-april-29---may-5---2024)
@@ -29,6 +30,11 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+## Top References of the Week (May 20 - May 26) - 2024
+| **Reference**                                                                                                                                                                                                      | **Hashtag**               | **Links**                                                                                                                                         |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) **Nguyen 2015** - A Self-Healing Framework for Online Sensor Data | #autonomic | [Paper](https://www.researchgate.net/publication/278786537_A_Self-Healing_Framework_for_Online_Sensor_Data)
 
 ## Top References of the Week (May 13 - May 19) - 2024
 | **Reference**                                                                                                                                                                                                      | **Hashtag**               | **Links**                                                                                                                                         |
