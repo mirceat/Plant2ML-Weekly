@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (May 27 - June 2)](./#top-references-of-the-week-may-27---june-2---2024)
 - [Top References of the Week (May 20 - May 26)](./#top-references-of-the-week-may-20---may-26---2024)
 - [Top References of the Week (May 13 - May 19)](./#top-references-of-the-week-may-13---may-19---2024)
 - [Top References of the Week (May 6 - May 12)](./#top-references-of-the-week-may-6---may-12---2024)
@@ -30,6 +31,17 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+## Top References of the Week (May 27 - June 2) - 2024
+| **Reference**                                                                                                                                                                                                                                                                                                                            | **Hashtag**                 | **Links**                                                                                                                                         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) **Qian 2024** - Are Long-LLMs A Necessity For Long-Context Tasks? **LC-Boost** reduces energy consumption significantly while maintaining performance.                                                                                                                                                                                | #llm                        | [Tweet](https://twitter.com/omarsar0/status/1795188655243264299) [Paper](https://arxiv.org/pdf/2405.15318v1)
+| 2) **Li 2024** - **More Agents Is All You Need**. Increasing the number of instantiated large language model (LLM) agents using a sampling-and-voting method improves performance across various tasks, and this improvement scales with the complexity of the task, offering an orthogonal approach to existing enhancement techniques. | #llm                        | [Paper](https://arxiv.org/pdf/2402.05120) [Tweet](https://twitter.com/rohanpaul_ai/status/1795500059825463569) [GitHub](https://anonymous.4open.science/r/more_agent_is_all_you_need/README.md)
+| 3) **Edge 399** - Understanding **External-Aid Planning and Autonomous Agents** How do we supply an agents with external help to improve its planning capabilities?                                                                                                                                                                      | #llm                        | [Blog](https://thesequence.substack.com/p/edge-399-understanding-external-aid) [GitHub](https://github.com/langroid/langroid)
+| 4) **Hirsch 2024** - What's the Plan? Evaluating and Developing Planning-Aware Techniques for Language Models | #llm                        | [Paper](https://arxiv.org/abs/2402.11489)
+| 5) **Niemueller 2018** - CLIPS-based Execution for PDDL Planners | #toread                     | [Paper](https://kbsg.rwth-aachen.de/~hofmann/papers/clips-exec-pddl.pdf)
+| 6) **Xu 2024** - Faithful Logical Reasoning via Symbolic Chain-of-Thought | #llm #reasoning #toread     | [Paper](https://arxiv.org/abs/2405.18357) [YouTube](https://www.youtube.com/watch?v=BBhLELGj77k&t=1046s) [Tweet](https://twitter.com/omarsar0/status/1795925943543898157)
+| 7) **Kafritsas 2023** - AutoGluon-TimeSeries : Creating Powerful Ensemble Forecasts - Complete Tutorial | #automl #timeseries #toread | [Blog](https://aihorizonforecast.substack.com/p/autogluon-timeseries-creating-powerful)
 
 ## Top References of the Week (May 20 - May 26) - 2024
 | **Reference**                                                                                                                                | **Hashtag**               | **Links**                                                                                                                                         |
