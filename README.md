@@ -34,12 +34,13 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 -->
 
 ## Top References of the Week (June 3 - June 9) - 2024
-| **Reference**                                                                 | **Hashtag**           | **Links**                                                                                                                                         |
-|-------------------------------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1) Training and Finetuning Embedding Models with **Sentence Transformers** v3 | #embeddings #toread   | [Blog](https://huggingface.co/blog/train-sentence-transformers)
-| 2) **Named Entity Recognition** Using ChatGPT                                 | #nlp                  | [Blog](https://datasciencenerd.us/named-entity-recognition-using-chatgpt-9d48b2a19103)
-| 3) **Harel 2012** - Behavioral Programming | #fsm #toread          | [Paper](https://www.wisdom.weizmann.ac.il/~amarron/BP%20-%20CACM%20-%20Author%20version.pdf)
-| 4) **Yaacov 2023** - BPpy: Behavioral programming in Python | #fsm #python #toread | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711023002522) [GitHub](https://github.com/bThink-BGU/BPPy) 
+| **Reference**                                                                      | **Hashtag**           | **Links**                                                                                                                                         |
+|------------------------------------------------------------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) Training and Finetuning Embedding Models with **Sentence Transformers** v3      | #embeddings #toread   | [Blog](https://huggingface.co/blog/train-sentence-transformers)
+| 2) **Named Entity Recognition** Using ChatGPT                                      | #nlp                  | [Blog](https://datasciencenerd.us/named-entity-recognition-using-chatgpt-9d48b2a19103)
+| 3) **Harel 2012** - Behavioral Programming                                         | #fsm #toread          | [Paper](https://www.wisdom.weizmann.ac.il/~amarron/BP%20-%20CACM%20-%20Author%20version.pdf)
+| 4) **Yaacov 2023** - BPpy: Behavioral programming in Python                        | #fsm #python #toread | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711023002522) [GitHub](https://github.com/bThink-BGU/BPPy) 
+| 5) Understanding the **LLM Development Cycle**: Building, Training, and Finetuning | #llm #webinar | [Webinar](https://events.zoom.us/ejl/ArzwACAJCGWLB-pPrWeIwszDr8WDhlEcFLL4VMCb1SJVU4fzrQo9~A9mb_Le_JPLEruxl-lwMjbZf6lXrtE2-2-qWCvQsy1MTDMZ4Cy-e5snIW-lj9Z-013f-9UZXV6RFTizdjcvx-dlR8g6PLPiaWaeyx/home) [Slides](https://sebastianraschka.com/pdf/slides/2024-acm.pdf)
 
 ## Top References of the Week (May 27 - June 2) - 2024
 | **Reference**                                                                                                                                                                                                                                                                                                                            | **Hashtag**                 | **Links**                                                                                                                                         |
