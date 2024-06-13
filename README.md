@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (June 10 - June 16)](./#top-references-of-the-week-june-10---june-16---2024)
 - [Top References of the Week (June 3 - June 9)](./#top-references-of-the-week-june-3---june-9---2024)
 - [Top References of the Week (May 27 - June 2)](./#top-references-of-the-week-may-27---june-2---2024)
 - [Top References of the Week (May 20 - May 26)](./#top-references-of-the-week-may-20---may-26---2024)
@@ -32,6 +33,12 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+
+## Top References of the Week (June 10 - June 16) - 2024
+| **Reference**                                                                                                                            | **Hashtag**      | **Links**                                                                                                                                         |
+|------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) **Cao 2024** - Recent advances in **text embedding**: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark (survey) | #llm #embeddings | [Paper](https://arxiv.org/pdf/2406.01607)
 
 ## Top References of the Week (June 3 - June 9) - 2024
 | **Reference**                                                                                   | **Hashtag**           | **Links**                                                                                                                                         |
