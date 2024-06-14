@@ -39,6 +39,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | **Reference**                                                                                                                            | **Hashtag**      | **Links**                                                                                                                                         |
 |------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1) **Cao 2024** - Recent advances in **text embedding**: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark (survey) | #llm #embeddings | [Paper](https://arxiv.org/pdf/2406.01607)
+| 2) **Acher 2023** - Generative AI for Reengineering Variants into **Software Product Lines**: An Experience Report | #llm | [Paper](https://dl.acm.org/doi/abs/10.1145/3579028.3609016) [GitHub](https://github.com/acherm/variantsGPT/)
 
 ## Top References of the Week (June 3 - June 9) - 2024
 | **Reference**                                                                                   | **Hashtag**   | **Links**                                                                                                                                         |
