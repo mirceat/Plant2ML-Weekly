@@ -46,6 +46,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 6) **Farquhar 2024** - Detecting **hallucinations in large language models** using semantic entropy - Nature | #llm #toread | [Paper](https://www.nature.com/articles/s41586-024-07421-0) [Tweet](https://x.com/seb_far/status/1803446067343556872)
 | 7) **Wang 2024** - **Grokked Transformers are Implicit Reasoners**: A Mechanistic Journey to the Edge of Generalization | #llm #trasformer #toread | [Paper](https://arxiv.org/pdf/2405.15071) [Tweet](https://x.com/rohanpaul_ai/status/1803478727067603055) 
 | 8) **Amphy** - Open-Source **Python ETL** Extract, transform and load data with low-code. Generate native Python code you can deploy anywhere. | #etl #python | [Website](https://amphi.ai/)
+| 9) **Sisinna 2022** - How Artificial Intelligence is Powering the **Next Wave of Autonomic Computing** | #toread #autonomic | [Blog](https://www.linkedin.com/pulse/how-artificial-intelligence-powering-next-wave-giovanni-sisinna/) 
 
 ## Top References of the Week (June 10 - June 16) - 2024
 | **Reference**                                                                                                                                | **Hashtag** | **Links**                                                                                                                                         |
