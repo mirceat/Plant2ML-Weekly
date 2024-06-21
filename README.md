@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (June 17 - June 23)](./#top-references-of-the-week-june-17---june-26---2024)
 - [Top References of the Week (June 10 - June 16)](./#top-references-of-the-week-june-10---june-16---2024)
 - [Top References of the Week (June 3 - June 9)](./#top-references-of-the-week-june-3---june-9---2024)
 - [Top References of the Week (May 27 - June 2)](./#top-references-of-the-week-may-27---june-2---2024)
@@ -34,6 +35,11 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
 
+## Top References of the Week (June 17 - June 23) - 2024
+| **Reference**                                                                                                                | **Hashtag** | **Links**                                                                                                                                         |
+|------------------------------------------------------------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) **Shmelkin 2021** - On Adapting **SNMP as Communication Protocol in Distributed Control Loops** for Self-adaptive Systems | #autonomic | [Paper](https://ieeexplore.ieee.org/document/9659525)
+| 2) **Large language model data pipelines** and Common Crawl (WARC/WAT/WET)                                                   | #llm | [Blog](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)
 
 ## Top References of the Week (June 10 - June 16) - 2024
 | **Reference**                                                                                                                                | **Hashtag** | **Links**                                                                                                                                         |
