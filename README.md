@@ -47,6 +47,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 7) **Wang 2024** - **Grokked Transformers are Implicit Reasoners**: A Mechanistic Journey to the Edge of Generalization | #llm #trasformer #toread | [Paper](https://arxiv.org/pdf/2405.15071) [Tweet](https://x.com/rohanpaul_ai/status/1803478727067603055) 
 | 8) **Amphy** - Open-Source **Python ETL** Extract, transform and load data with low-code. Generate native Python code you can deploy anywhere. | #etl #python | [Website](https://amphi.ai/)
 | 9) **Sisinna 2022** - How Artificial Intelligence is Powering the **Next Wave of Autonomic Computing** | #autonomic | [Blog](https://www.linkedin.com/pulse/how-artificial-intelligence-powering-next-wave-giovanni-sisinna/) 
+| 10) The (lesser known) rising application of LLMs - **Structuring unstructured data** | #llm | [Blog](https://towardsdatascience.com/the-lesser-known-rising-application-of-llms-775834116477) [GitHub](https://github.com/VianneyMI/baker)
 
 ## Top References of the Week (June 10 - June 16) - 2024
 | **Reference**                                                                                                                                | **Hashtag** | **Links**                                                                                                                                         |
