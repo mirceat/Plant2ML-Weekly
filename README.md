@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (June 24 - June 30)](./#top-references-of-the-week-june-24---june-30---2024)
 - [Top References of the Week (June 17 - June 23)](./#top-references-of-the-week-june-17---june-23---2024)
 - [Top References of the Week (June 10 - June 16)](./#top-references-of-the-week-june-10---june-16---2024)
 - [Top References of the Week (June 3 - June 9)](./#top-references-of-the-week-june-3---june-9---2024)
@@ -35,6 +36,18 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
 
+## Top References of the Week (June 24 - June 30) - 2024
+| **Reference**                                                                                                                                                                        | **Hashtag**    | **Links**                                                                                                                                                                                                                                               |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) Damien Benveniste - Understanding The **Computational Graph** in Neural Networks                                                                                                  | #deeplearning  | [YouTube](https://www.youtube.com/watch?v=T-LEs89qrlQ)
+| 2) Damien Benveniste - The **Backpropagation Algorithm!**                                                                                                                            | #deeplearning  | [YouTube](https://www.youtube.com/watch?v=mpdxJD2BDuo)
+| 3) Damien Benveniste - Understanding the **Self-Attention Mechanism** in 8 min                                                                                                       | #deeplearning | [YouTube](https://www.youtube.com/watch?v=W28LfOld44Y&t=1s)
+| 4) AI Coffee Break with Letitia - Supercharging **RAG with Generative Feedback Loops** from Weaviate                                                                                 | #llm | [YouTube](https://www.youtube.com/watch?v=ijCjKnbQgXc) 
+| 5) Why You (Currently) **Do Not Need Deep Learning for Time Series Forecasting**. What you need instead: Learnings from the Makridakis M5 competitions and the 2023 Kaggle AI report | #timeseries | [Blog](https://towardsdatascience.com/why-you-currently-do-not-need-deep-learning-for-time-series-forecasting-0de57f2bc0ed) 
+| 6) **Prompt Decomposition**: The missing piece to scaling generative AI.                                                                                                             | #llm | [Blog](https://medium.com/@flux07/prompt-decomposition-da646f0257f1) [GitHub](https://github.com/aws-samples/llm-based-advanced-summarization/blob/main/Prompt%20Decomposition/Prompt_Decomposition.ipynb)
+| 7) Demystifying **PDF Parsing** 01: Overview Task Definition, Method Classification and Method Introduction to PDF Parsing                                                           | | [Blog](https://generativeai.pub/demystifying-pdf-parsing-01-overview-130f9e4064c2)
+| 8) Revach 2022 - **KalmanNet: Neural Network Aided Kalman Filtering** for Partially Known Dynamics                                                                                   | #rnn | [Paper](https://arxiv.org/pdf/2107.10043.pdf) [GitHub](https://github.com/KalmanNet/KalmanNet_TSP)
+
 ## Top References of the Week (June 17 - June 23) - 2024
 | **Reference**                                                                                                                | **Hashtag**    | **Links**                                                                                                                                                                                                                                               |
 |------------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -55,7 +68,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 1) **Cao 2024** - Recent advances in **text embedding**: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark (survey)     | #llm #embeddings | [Paper](https://arxiv.org/pdf/2406.01607)
 | 2) **Acher 2023** - Generative AI for Reengineering Variants into **Software Product Lines**: An Experience Report                           | #llm        | [Paper](https://dl.acm.org/doi/abs/10.1145/3579028.3609016) [GitHub](https://github.com/acherm/variantsGPT/)
 | 3) **Zhou 2024 - A Survey on Efficient Inference for Large Language Models**                                                                 | #llm        | [Paper](https://arxiv.org/pdf/2404.14294)
-| 4) **Schulhoff 2024** - The Prompt Report: A Systematic **Survey of Prompting Techniques**                                                   | #llm        | [Paper](https://arxiv.org/abs/2406.06608) [HuggingFace](https://huggingface.co/datasets/PromptSystematicReview/ThePromptReport) [GitHub](https://github.com/trigaten/Prompt_Systematic_Review/tree/main/src/prompt_systematic_review/get_papers)
+| 4) **Schulhoff 2024** - The Prompt Report: A Systematic **Survey of Prompting Techniques** Uses the PRISMA review process.                   | #llm        | [Paper](https://arxiv.org/abs/2406.06608) [HuggingFace](https://huggingface.co/datasets/PromptSystematicReview/ThePromptReport) [GitHub](https://github.com/trigaten/Prompt_Systematic_Review/tree/main/src/prompt_systematic_review/get_papers)
 | 5) **Page 2020** - The PRISMA 2020 statement: an updated guideline for reporting **systematic reviews**                                      | | [Paper](https://www.bmj.com/content/372/bmj.n71)
 | 6) What We Learned from a Year of Building with LLMs (Part I)                                                                                | #llm | [Blog](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 | 7) What We Learned from a Year of Building with LLMs (Part II)                                                                               | #llm | [Blog](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)
