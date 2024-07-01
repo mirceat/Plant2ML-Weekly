@@ -37,7 +37,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
 
-## Top References of the Week (June 24 - June 30) - 2024
+## Top References of the Week (July 1 - July 7) - 2024
 | **Reference**                                                              | **Hashtag**   | **Links**                                                                                                                                                                                                                                               |
 |----------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1) **TikZ**: a LaTeX package for creating graphics in scientific documents | #diagrams | [Blog](https://soumenatta.medium.com/tikz-a-latex-package-for-creating-graphics-925b9b6f5761)
