@@ -40,8 +40,10 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 ## Top References of the Week (July 1 - July 7) - 2024
 | **Reference**                                                              | **Hashtag**   | **Links**                                                                                                                                                                                                                                               |
 |----------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1) **TikZ**: a LaTeX package for creating graphics in scientific documents | #diagrams | [Blog](https://soumenatta.medium.com/tikz-a-latex-package-for-creating-graphics-925b9b6f5761)
-| 2) Damien Benveniste - **The Position Encoding In Transformers** | #transformers | [YouTube](https://www.youtube.com/watch?v=AH5SIsV9cX8) 
+| 1) **TikZ**: a LaTeX package for creating graphics in scientific documents | #diagrams     | [Blog](https://soumenatta.medium.com/tikz-a-latex-package-for-creating-graphics-925b9b6f5761)
+| 2) Damien Benveniste - **The Position Encoding In Transformers**           | #transformers | [YouTube](https://www.youtube.com/watch?v=AH5SIsV9cX8) 
+| 3) Tull 2024 - Towards **Compositional Interpretability** for XAI          | #xai #diagams | [Paper](https://arxiv.org/pdf/2406.17583)
+| 4) **Executable (computational) graphs & diagrams** - Nasdanika            | #diagrams | [Blog](https://medium.com/nasdanika/executable-computational-graphs-diagrams-1eeffc80976d)
 
 ## Top References of the Week (June 24 - June 30) - 2024
 | **Reference**                                                                                                                                                                        | **Hashtag**   | **Links**                                                                                                                                                                                                                                               |
