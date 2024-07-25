@@ -38,12 +38,15 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 -->
 
 ## Top References of the Week (July 1 - July 7) - 2024
-| **Reference**                                                              | **Hashtag**   | **Links**                                                                                                                                                                                                                                               |
-|----------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1) **TikZ**: a LaTeX package for creating graphics in scientific documents | #diagrams     | [Blog](https://soumenatta.medium.com/tikz-a-latex-package-for-creating-graphics-925b9b6f5761)
-| 2) Damien Benveniste - **The Position Encoding In Transformers**           | #transformers | [YouTube](https://www.youtube.com/watch?v=AH5SIsV9cX8) 
-| 3) Tull 2024 - Towards **Compositional Interpretability** for XAI          | #xai #diagams | [Paper](https://arxiv.org/pdf/2406.17583)
-| 4) **Executable (computational) graphs & diagrams** - Nasdanika            | #diagrams | [Blog](https://medium.com/nasdanika/executable-computational-graphs-diagrams-1eeffc80976d)
+| **Reference**                                                                                                       | **Hashtag**   | **Links**                                                                                                                                                                                                                                               |
+|---------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) **TikZ**: a LaTeX package for creating graphics in scientific documents                                          | #diagrams     | [Blog](https://soumenatta.medium.com/tikz-a-latex-package-for-creating-graphics-925b9b6f5761)
+| 2) Damien Benveniste - **The Position Encoding In Transformers**                                                    | #transformers | [YouTube](https://www.youtube.com/watch?v=AH5SIsV9cX8) 
+| 3) Tull 2024 - Towards **Compositional Interpretability** for XAI                                                   | #xai #diagams | [Paper](https://arxiv.org/pdf/2406.17583)
+| 4) **Executable (computational) graphs & diagrams** - Nasdanika                                                     | #diagrams     | [Blog](https://medium.com/nasdanika/executable-computational-graphs-diagrams-1eeffc80976d)
+| 5) **C4 models as code** - Simon Brown - NDC Oslo 2023                                                              | #diagrams     | [YouTube](https://www.youtube.com/watch?v=4HEd1EEQLR0)
+| 6) Simon Brown — The lost art of **software design**                                                                | #diagrams | [YouTube](https://www.youtube.com/watch?v=UzFpFQgeEyc)
+| 7) Thoughtworks - **Technology Radar**: An opinionated guide to today’s technology landscape. **Diagrams as code**. | | [Paper](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2024/04/tr_technology_radar_vol_30_en.pdf) [Blog](https://www.thoughtworks.com/en-ca/radar/techniques/diagrams-as-code)
 
 ## Top References of the Week (June 24 - June 30) - 2024
 | **Reference**                                                                                                                                                                        | **Hashtag**   | **Links**                                                                                                                                                                                                                                               |
