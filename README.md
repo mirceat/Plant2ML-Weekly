@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (July 8 - July 14)](./#top-references-of-the-week-july-8---july-14---2024)
 - [Top References of the Week (July 1 - July 7)](./#top-references-of-the-week-july-1---july-7---2024)
 - [Top References of the Week (June 24 - June 30)](./#top-references-of-the-week-june-24---june-30---2024)
 - [Top References of the Week (June 17 - June 23)](./#top-references-of-the-week-june-17---june-23---2024)
@@ -37,17 +38,27 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
 
+## Top References of the Week (July 8 - July 14) - 2024
+| **Reference**                                                                                                         | **Hashtag**       | **Links**                                                                                                                                                                                                                                               |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) How 2024 - **Feynman Diagrams as Computational Graphs**                                                            | #diagrams #toread | [Paper](https://arxiv.org/pdf/2403.18840)
+| 2) Preuhsler 2024 - **Applying Automatic Visualisation to Deep Neural Network Development**                           | #diagrams #toread | [Thesis](https://rtsys.informatik.uni-kiel.de/~biblio/downloads/theses/mep-bt.pdf)
+| 3) Yang 2024 - Practical single-line **diagram recognition** based on digital image processing and deep vision models | #diagrams #toread | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423028919)
+| 4) Borazjanizadeh 2024 - **Reliable Reasoning Beyond Natural Language**                                               | #llm Prolog #toread | [Paper](https://arxiv.org/abs/2407.11373) [Tweet](https://x.com/IntuitMachine/status/1818964502454345938)
+
 ## Top References of the Week (July 1 - July 7) - 2024
-| **Reference**                                                                                                       | **Hashtag**   | **Links**                                                                                                                                                                                                                                               |
-|---------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1) **TikZ**: a LaTeX package for creating graphics in scientific documents                                          | #diagrams     | [Blog](https://soumenatta.medium.com/tikz-a-latex-package-for-creating-graphics-925b9b6f5761)
-| 2) Damien Benveniste - **The Position Encoding In Transformers**                                                    | #transformers | [YouTube](https://www.youtube.com/watch?v=AH5SIsV9cX8) 
-| 3) Tull 2024 - Towards **Compositional Interpretability** for XAI                                                   | #xai #diagams | [Paper](https://arxiv.org/pdf/2406.17583)
-| 4) **Executable (computational) graphs & diagrams** - Nasdanika                                                     | #diagrams     | [Blog](https://medium.com/nasdanika/executable-computational-graphs-diagrams-1eeffc80976d)
-| 5) **C4 models as code** - Simon Brown - NDC Oslo 2023                                                              | #diagrams     | [YouTube](https://www.youtube.com/watch?v=4HEd1EEQLR0)
-| 6) Simon Brown — The lost art of **software design**                                                                | #diagrams | [YouTube](https://www.youtube.com/watch?v=UzFpFQgeEyc)
-| 7) Thoughtworks - **Technology Radar**: An opinionated guide to today’s technology landscape. **Diagrams as code**. | | [Paper](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2024/04/tr_technology_radar_vol_30_en.pdf) [Blog](https://www.thoughtworks.com/en-ca/radar/techniques/diagrams-as-code)
-| 8) What Does the **Transformer Architecture** Tell Us? | #llm | [Blog](https://towardsdatascience.com/what-does-the-transformer-architecture-tell-us-cd3a4fd6a59d)
+| **Reference**                                                                                                       | **Hashtag**               | **Links**                                                                                                                                                                                                                                               |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) **TikZ**: a LaTeX package for creating graphics in scientific documents                                          | #diagrams                 | [Blog](https://soumenatta.medium.com/tikz-a-latex-package-for-creating-graphics-925b9b6f5761)
+| 2) Damien Benveniste - **The Position Encoding In Transformers**                                                    | #transformers             | [YouTube](https://www.youtube.com/watch?v=AH5SIsV9cX8) 
+| 3) Tull 2024 - Towards **Compositional Interpretability** for XAI                                                   | #xai #diagams             | [Paper](https://arxiv.org/pdf/2406.17583)
+| 4) **Executable (computational) graphs & diagrams** - Nasdanika                                                     | #diagrams                 | [Blog](https://medium.com/nasdanika/executable-computational-graphs-diagrams-1eeffc80976d)
+| 5) **C4 models as code** - Simon Brown - NDC Oslo 2023                                                              | #diagrams                 | [YouTube](https://www.youtube.com/watch?v=4HEd1EEQLR0)
+| 6) Simon Brown — The lost art of **software design**                                                                | #diagrams                 | [YouTube](https://www.youtube.com/watch?v=UzFpFQgeEyc)
+| 7) Thoughtworks - **Technology Radar**: An opinionated guide to today’s technology landscape. **Diagrams as code**. |                           | [Paper](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2024/04/tr_technology_radar_vol_30_en.pdf) [Blog](https://www.thoughtworks.com/en-ca/radar/techniques/diagrams-as-code)
+| 8) What Does the **Transformer Architecture** Tell Us? | #llm                      | [Blog](https://towardsdatascience.com/what-does-the-transformer-architecture-tell-us-cd3a4fd6a59d)
+| 9) Abbott 2024 - **Neural Circuit Diagrams**: Robust Diagrams for the Communication, Implementation, and Analysis of Deep Learning Architectures | #diagrams #transformers   | [Paper](https://arxiv.org/pdf/2402.05424) [GitHub](https://github.com/vtabbott/Neural-Circuit-Diagrams/tree/main) [Tweet](https://x.com/vtabbott_/status/1729827609188630793) [Website](https://www.vtabbott.io/) 
+| 10) Abbott 2023 - **Robust Diagrams for Deep Learning Architectures**: Applications and Theory | #thesis #diagrams #toread | [Thesis](https://www.vtabbott.io/honours-thesis/)
 
 ## Top References of the Week (June 24 - June 30) - 2024
 | **Reference**                                                                                                                                                                        | **Hashtag**   | **Links**                                                                                                                                                                                                                                               |
