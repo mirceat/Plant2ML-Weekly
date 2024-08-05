@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (July 15 - July 21)](./#top-references-of-the-week-july-15---july-21---2024)
 - [Top References of the Week (July 8 - July 14)](./#top-references-of-the-week-july-8---july-14---2024)
 - [Top References of the Week (July 1 - July 7)](./#top-references-of-the-week-july-1---july-7---2024)
 - [Top References of the Week (June 24 - June 30)](./#top-references-of-the-week-june-24---june-30---2024)
@@ -38,6 +39,12 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
 
+## Top References of the Week (July 15 - July 21) - 2024
+| **Reference**                                                                                                       | **Hashtag**                 | **Links**                                                                                                                                                                                                                                               |
+|---------------------------------------------------------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) Sahoo 2024 - A Systematic **Survey of Prompt Engineering** in Large Language Models: Techniques and Applications | #llm #toread | [Paper](https://arxiv.org/pdf/2402.07927)
+| 2) Wang 2024 - Searching for Best Practices in **Retrieval-Augmented Generation** | #llm #toread | [Paper](https://arxiv.org/pdf/2407.01219) [GitHub](https://github.com/FudanDNN-NLP/RAG)
+
 ## Top References of the Week (July 8 - July 14) - 2024
 | **Reference**                                                                                                         | **Hashtag**                 | **Links**                                                                                                                                                                                                                                               |
 |-----------------------------------------------------------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -50,6 +57,8 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 7) Ordonez 2024 - Growing a FLOWER: Building a **Diagram Unifying Flow and ER Notation** for Data Science             | #diagrams #toread           | [Paper](https://dl.acm.org/doi/pdf/10.1145/3665939.3665958)
 | 8) Ye 2020 - **Penrose: From Mathematical Notation to Beautiful Diagrams**                                            | #diagrams #toread           | [Paper](https://dl.acm.org/doi/pdf/10.1145/3386569.3392375) [GitHub](https://github.com/penrose/penrose)
 | 9) Rubio-Madrigal 2024 - **Rendering string diagrams recursively**                                                    | #diagrams #category #toread | [Paper](https://arxiv.org/pdf/2404.02679) [Website](https://celrm.github.io/)
+| 10) Vatsal 2024 - **A survey of prompt engineering methods** in large language models for different NLP tasks | #llm #nlproc #toread | [Paper](https://arxiv.org/pdf/2407.12994)
+
 
 ## Top References of the Week (July 1 - July 7) - 2024
 | **Reference**                                                                                                       | **Hashtag**               | **Links**                                                                                                                                                                                                                                               |
