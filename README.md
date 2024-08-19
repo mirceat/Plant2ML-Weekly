@@ -44,7 +44,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | **Reference**                                                | **Hashtag**                 | **Links**                                                                                                                                                      |
 |--------------------------------------------------------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1) Keshav 2007 - **How to Read a Paper** - three-pass method | #scholar | [Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
-| 2) Peterson - **Essay Writing Guide**                        | #scholar | [MS Word](https://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)
+| 2) Peterson 2018 - **Essay Writing Guide**                   | #scholar | [MS Word](https://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)
 
 ## Top References of the Week (July 15 - July 21) - 2024
 | **Reference**                                                                                                                                | **Hashtag**                 | **Links**                                                                                                                                                      |
