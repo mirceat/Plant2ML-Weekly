@@ -10,7 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
-- [Top References of the Week (July 15 - July 21)](./#top-references-of-the-week-july-22---july-28---2024)
+- [Top References of the Week (July 22 - July 28)](./#top-references-of-the-week-july-22---july-28---2024)
 - [Top References of the Week (July 15 - July 21)](./#top-references-of-the-week-july-15---july-21---2024)
 - [Top References of the Week (July 8 - July 14)](./#top-references-of-the-week-july-8---july-14---2024)
 - [Top References of the Week (July 1 - July 7)](./#top-references-of-the-week-july-1---july-7---2024)
