@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (August 12 - August 18)](./#top-references-of-the-week-august-12---august-18---2024)
 - [Top References of the Week (August 5 - August 11)](./#top-references-of-the-week-august-5---august-11---2024)
 - [Top References of the Week (July 29 - August 4)](./#top-references-of-the-week-july-29---august-4---2024)
 - [Top References of the Week (July 22 - July 28)](./#top-references-of-the-week-july-22---july-28---2024)
@@ -42,6 +43,11 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
 
+## Top References of the Week (August 12 - August 18) - 2024
+| **Reference**                                                                        | **Hashtag**       | **Links**                                                                                                                                                         |
+|--------------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) Adam Świderski - **IntelliJ IDEA as a LaTeX editor** - automation inside the IDE. | #scholar | [Blog](https://swiderski.tech/intellij-latex-editor/)
+
 ## Top References of the Week (August 5 - August 11) - 2024
 | **Reference**                                                                                                                         | **Hashtag**       | **Links**                                                                                                                                                         |
 |---------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,6 +59,8 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 6) Erickson 2020 - **AutoGluon-Tabular**: Robust and Accurate AutoML for Structured Data                                              | #automl | [Paper](https://arxiv.org/abs/2003.06505)
 | 7) Moharil 2024 - **Towards efficient AutoML: a pipeline synthesis approach** leveraging pre-trained transformers for multimodal data | #automl | [Paper](https://www.researchgate.net/publication/382395598_Towards_efficient_AutoML_a_pipeline_synthesis_approach_leveraging_pre-trained_transformers_for_multimodal_data)
 | 8) Tang 2024 - **AutoGluon-Multimodal** (AutoMM): Supercharging Multimodal AutoML with Foundation Models                              | #automl | [Paper](https://arxiv.org/abs/2404.16233)
+| 9) **How to ML Paper** - A brief Guide                                                                                                | #scholar | [Blog](https://docs.google.com/document/d/16R1E2ExKUCP5SlXWHr-KzbVDx9DBUclra-EbU8IB-iE/edit#heading=h.16t67gkeu9dx)
+| 10) NeurIPS 2022 - **Reviewer Guidelines**                                                                                            | #scholar | [Blog](https://neurips.cc/Conferences/2022/ReviewerGuidelines) 
 
 ## Top References of the Week (July 29 - August 4) - 2024
 | **Reference**                                                                                                                  | **Hashtag**       | **Links**                                                                                                                                                         |
@@ -94,7 +102,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 7) Zimmermann 2024 - **Study Buddy**                                                                                                         | #thesis #toread #llm #rag   | [Thesis](https://eprints.ost.ch/id/eprint/1176/)                                                                                                               
 | 8) Dorner 2024 - Measuring Information Diffusion in **Code Review** at Spotify                                                               | #diagram                    | [Paper](https://arxiv.org/pdf/2406.12553)                                                                                                                      
 | 9) Bossenko 2024 - TermX: The semantic interoperability, knowledge management and sharing platform (C4 architecture diagram) (cited us [30]) | #diagrams                   | [Paper](https://www.sciencedirect.com/science/article/pii/S2352711024002103) [GitHub](https://github.com/termx-health/knowledge-base/tree/main/softwarex-2024-termx-platform)                                                                        | 
-| 10) Lu 2024 - The AI Scientist: Towards **Fully Automated Open-Ended Scientific Discovery**                                                  | #llm #scholar               | [Paper](https://arxiv.org/pdf/2408.06292) [Blog](https://venturebeat.com/ai/sakana-ai-scientist-conducts-research-autonomously-challenging-scientific-norms/) [Website](https://sakana.ai/ai-scientist/) [Tweet](https://x.com/SakanaAILabs/status/1823178623513239992) [Tweet](https://x.com/omarsar0/status/1823189280883097788) 
+| 10) Lu 2024 - The AI Scientist: Towards **Fully Automated Open-Ended Scientific Discovery**                                                  | #llm #scholar               | [Paper](https://arxiv.org/pdf/2408.06292) [Blog](https://venturebeat.com/ai/sakana-ai-scientist-conducts-research-autonomously-challenging-scientific-norms/) [Website](https://sakana.ai/ai-scientist/) [Tweet](https://x.com/SakanaAILabs/status/1823178623513239992) [Tweet](https://x.com/omarsar0/status/1823189280883097788) [GitHub](https://github.com/SakanaAI/AI-Scientist) 
 
 ## Top References of the Week (July 8 - July 14) - 2024
 | **Reference**                                                                                                         | **Hashtag** | **Links**                                                                                                                                                                                                                                               |
