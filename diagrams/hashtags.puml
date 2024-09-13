@@ -4,6 +4,7 @@ title Hashtags Graph
 
 card "Plant2ML" as Plant2ML #salmon
 card "PlantUML\n~#diagrams" as PlantUML
+card "TikZ\n~#diagrams" as TikZ
 card "ML\n~#machinelearning" as ML
 card "~#llm" as LLM
 card "~#ai" as AI
@@ -18,6 +19,8 @@ card "Autonomic Computing\n~#autonomic" as Autonomic
 card DOM
 
 PlantUML -> Plant2ML
+TikZ -> Plant2ML
+Plant2ML -[hidden]-> TikZ
 ML --> Plant2ML
 ML --> LLM
 AI --> ML

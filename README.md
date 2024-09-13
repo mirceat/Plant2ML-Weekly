@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (September 9 - September 15)](./#top-references-of-the-week-september-9---september-15---2024)
 - [Top References of the Week (August 12 - August 18)](./#top-references-of-the-week-august-12---august-18---2024)
 - [Top References of the Week (August 5 - August 11)](./#top-references-of-the-week-august-5---august-11---2024)
 - [Top References of the Week (July 29 - August 4)](./#top-references-of-the-week-july-29---august-4---2024)
@@ -42,6 +43,17 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+## Top References of the Week (September 9 - September 15) - 2024
+| **Reference**                                                                                                                                                                                                                                                                                                   | **Hashtag** | **Links**                                                                                                                      |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) OpenAI launches new series of **AI models with 'reasoning' abilities**                                                                                                                                                                                                                                       | #llm        | [Blog](https://finance.yahoo.com/news/openai-launches-series-ai-models-172001503.html?guccounter=1)                            
+| 2) What **Next-Gen RAG** Is About 1. MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery 2. Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers 3. GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding | #rag #llm   | [Blog](https://www.linkedin.com/pulse/what-next-gen-rag-pascal-biese-y31mf/)                                                   
+| 3) Qian 2024 - **MemoRAG**: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery                                                                                                                                                                                                                 | #rag        | [Paper](https://arxiv.org/abs/2409.05591) [GitHub](https://github.com/qhjqhj00/MemoRAG)                                        | #rag
+| 4) Unlocking the Potential of Large Language Models: A Deep Dive into **Long Writer**                                                                                                                                                                                                                           | #llm        | [Blog](https://moazharu.medium.com/unlocking-the-potential-of-large-language-models-a-deep-dive-into-long-writer-e806e04ea96c) 
+| 5) Malkov 2018 - Efficient and robust approximate nearest neighbor search using **Hierarchical Navigable Small World graphs** |             | [Paper](https://arxiv.org/abs/1603.09320) [GitHub](https://github.com/nmslib/hnswlib)                                          
+| 6) Si 2024 - **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers** | #llm | [Paper](https://www.arxiv.org/abs/2409.04109) [GitHub](https://github.com/NoviScl/AI-Researcher)
+| 7) Liu 2024 - **Large Language Model-Based Agents for Software Engineering**: A Survey | #llm | [Paper](https://www.arxiv.org/abs/2409.02977) [GitHub](https://github.com/FudanSELab/Agent4SE-Paper-List)
 
 ## Top References of the Week (August 12 - August 18) - 2024
 | **Reference**                                                                        | **Hashtag**       | **Links**                                                                                                                                                         |
