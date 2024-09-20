@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (September 16 - September 22)](./#top-references-of-the-week-september-16---september-22---2024)
 - [Top References of the Week (September 9 - September 15)](./#top-references-of-the-week-september-9---september-15---2024)
 - [Top References of the Week (August 12 - August 18)](./#top-references-of-the-week-august-12---august-18---2024)
 - [Top References of the Week (August 5 - August 11)](./#top-references-of-the-week-august-5---august-11---2024)
@@ -43,6 +44,12 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+## Top References of the Week (September 16 - September 22) - 2024
+| **Reference**                                                                                                                             | **Hashtag**                   | **Links**                                                                                                                      |
+|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) AI Coffee Break with Letitia - How OpenAI made o1 "think" – Here is what we think and already know about **o1 reinforcement learning** | #llm | [YouTube](https://www.youtube.com/watch?v=MNE6QZaRavo)
+| 2) **Building RAGs** Without A Retrieval Model Is a Terrible Mistake                                                                      | #rag | [Blog](https://towardsdatascience.com/multi-rep-colbert-retrieval-models-for-rags-fe05381b8819)
 
 ## Top References of the Week (September 9 - September 15) - 2024
 | **Reference**                                                                                                                                                                                                                                                                                                   | **Hashtag**                   | **Links**                                                                                                                      |
