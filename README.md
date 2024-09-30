@@ -55,6 +55,8 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 4) Hebert 2024 - FLARE: **Fusing Language Models and Collaborative Architectures** for Recommender Enhancement | #llm | [Paper](https://arxiv.org/pdf/2409.11699)
 | 5) Socher 2024 - SYSTEMS AND METHODS FOR A **SEARCH TOOL OF CODE SNIPPETS**                                    | | [Patent](https://www.freepatentsonline.com/y2024/0311434.html)
 | 6) Yoon 2023 - **Autonomous Large Language Model Agents** Enabling Intent-Driven Mobile GUI Testing            | #uiux #llm | [Paper](https://arxiv.org/abs/2311.08649) [GitHub](https://github.com/coinse/droidagent)
+| 7) Improving information retrieval in the Elastic Stack: **Hybrid retrieval**                                  | | [Blog](https://www.elastic.co/search-labs/blog/improving-information-retrieval-elastic-stack-hybrid)
+| 8) ElasticDocs GPT Blog - **Loading an embedding from Hugging Face into Elasticsearch** | #embeddings | [GitHub](https://github.com/jeffvestal/ElasticDocs_GPT/blob/main/load_embedding_model.ipynb)
 
 ## Top References of the Week (September 16 - September 22) - 2024
 | **Reference**                                                                                                                                                                                                          | **Hashtag**                   | **Links**                                                                                                                      |
