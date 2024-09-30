@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (September 23 - September 29)](./#top-references-of-the-week-september-23---september-29---2024)
 - [Top References of the Week (September 16 - September 22)](./#top-references-of-the-week-september-16---september-22---2024)
 - [Top References of the Week (September 9 - September 15)](./#top-references-of-the-week-september-9---september-15---2024)
 - [Top References of the Week (August 12 - August 18)](./#top-references-of-the-week-august-12---august-18---2024)
@@ -44,6 +45,15 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+## Top References of the Week (September 16 - September 22) - 2024
+| **Reference**                                                                                                  | **Hashtag**                   | **Links**                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) How to use **Elasticsearch as Vector Database**                                                             | #embeddings | [Blog](https://medium.com/bigdata-blog/how-to-use-elasticsearch-as-vector-database-5f1768f7d46a)
+| 2) Louis-François Bouchard - The Best **RAG Stack** to Date (exploring every component)                        | #rag #embeddings | [Blog](https://pub.towardsai.net/the-best-rag-stack-to-date-8dc035075e13) [YouTube](https://www.youtube.com/watch?v=QyaMmSXxH2w)
+| 3) **Reasoning tokens** and techniques used in System 2 LLMs such as OpenAI o1                                 | #reasoning | [Blog](https://medium.com/@don-lim/reasoning-tokens-and-techniques-used-in-system-2-llm-models-such-as-openai-o1-bacbf8fd9bec)
+| 4) Hebert 2024 - FLARE: **Fusing Language Models and Collaborative Architectures** for Recommender Enhancement | #llm | [Paper](https://arxiv.org/pdf/2409.11699)
+| 5) Socher 2024 - SYSTEMS AND METHODS FOR A **SEARCH TOOL OF CODE SNIPPETS**                                    | | [Patent](https://www.freepatentsonline.com/y2024/0311434.html)
 
 ## Top References of the Week (September 16 - September 22) - 2024
 | **Reference**                                                                                                                                                                                                          | **Hashtag**                   | **Links**                                                                                                                      |
@@ -88,7 +98,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 5) **🕕🕡🕖Time Series Forecasting** in the Year 2024                                                                                 | #timeseries       | [Blog](https://riteshshergill.medium.com/time-series-forecasting-in-the-year-2024-d80a4a21abf1)
 | 6) Erickson 2020 - **AutoGluon-Tabular**: Robust and Accurate AutoML for Structured Data                                              | #automl           | [Paper](https://arxiv.org/abs/2003.06505)
 | 7) Moharil 2024 - **Towards efficient AutoML: a pipeline synthesis approach** leveraging pre-trained transformers for multimodal data | #automl           | [Paper](https://www.researchgate.net/publication/382395598_Towards_efficient_AutoML_a_pipeline_synthesis_approach_leveraging_pre-trained_transformers_for_multimodal_data)
-| 8) Tang 2024 - **AutoGluon-Multimodal** (AutoMM): Supercharging Multimodal AutoML with Foundation Models                              | #automl #llm      | [Paper](https://arxiv.org/abs/2404.16233)
+| 8) Tang 2024 - **AutoGluon-Multimodal** (AutoMM): Supercharging Multimodal AutoML with Foundation Models (SNLI)                       | #automl #llm      | [Paper](https://arxiv.org/abs/2404.16233) [GitHub](https://github.com/tonyhoo/automm-benchmark-paper)
 | 9) **How to ML Paper** - A brief Guide                                                                                                | #scholar          | [Blog](https://docs.google.com/document/d/16R1E2ExKUCP5SlXWHr-KzbVDx9DBUclra-EbU8IB-iE/edit#heading=h.16t67gkeu9dx)
 | 10) NeurIPS 2022 - **Reviewer Guidelines**                                                                                            | #scholar          | [Blog](https://neurips.cc/Conferences/2022/ReviewerGuidelines) 
 
