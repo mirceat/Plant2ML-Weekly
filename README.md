@@ -46,7 +46,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
 
-## Top References of the Week (September 16 - September 22) - 2024
+## Top References of the Week (September 23 - September 29) - 2024
 | **Reference**                                                                                                  | **Hashtag**                   | **Links**                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | 1) How to use **Elasticsearch as Vector Database**                                                             | #embeddings | [Blog](https://medium.com/bigdata-blog/how-to-use-elasticsearch-as-vector-database-5f1768f7d46a)
