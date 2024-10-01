@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (September 30 - October 6)](./#top-references-of-the-week-september-29---october-6---2024)
 - [Top References of the Week (September 23 - September 29)](./#top-references-of-the-week-september-23---september-29---2024)
 - [Top References of the Week (September 16 - September 22)](./#top-references-of-the-week-september-16---september-22---2024)
 - [Top References of the Week (September 9 - September 15)](./#top-references-of-the-week-september-9---september-15---2024)
@@ -46,6 +47,12 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
 
+## Top References of the Week (September 30 - October 6) - 2024
+| **Reference**                                                                                                  | **Hashtag**                   | **Links**                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) Garimilla 2024 - **Microservices Architecture**: Revolutionizing Modern Software Development | | [Paper](https://www.researchgate.net/publication/384362695_Microservices_Architecture_Revolutionizing_Modern_Software_Development)
+| 2) **AI Agents vs. AI Pipelines**: A Practical Guide to Coding Your LLM Application - We use CrewAI to create apps that demonstrate how to choose the right architecture for your LLM application | #llm | [Blog](https://towardsdatascience.com/ai-agents-vs-ai-pipelines-a-practical-guide-to-coding-your-llm-application-167e3c9a654c)
+
 ## Top References of the Week (September 23 - September 29) - 2024
 | **Reference**                                                                                                  | **Hashtag**                   | **Links**                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -56,7 +63,9 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 5) Socher 2024 - SYSTEMS AND METHODS FOR A **SEARCH TOOL OF CODE SNIPPETS**                                    | | [Patent](https://www.freepatentsonline.com/y2024/0311434.html)
 | 6) Yoon 2023 - **Autonomous Large Language Model Agents** Enabling Intent-Driven Mobile GUI Testing            | #uiux #llm | [Paper](https://arxiv.org/abs/2311.08649) [GitHub](https://github.com/coinse/droidagent)
 | 7) Improving information retrieval in the Elastic Stack: **Hybrid retrieval**                                  | | [Blog](https://www.elastic.co/search-labs/blog/improving-information-retrieval-elastic-stack-hybrid)
-| 8) ElasticDocs GPT Blog - **Loading an embedding from Hugging Face into Elasticsearch** | #embeddings | [GitHub](https://github.com/jeffvestal/ElasticDocs_GPT/blob/main/load_embedding_model.ipynb)
+| 8) ElasticDocs GPT Blog - **Loading an embedding from Hugging Face into Elasticsearch**                        | #embeddings | [GitHub](https://github.com/jeffvestal/ElasticDocs_GPT/blob/main/load_embedding_model.ipynb)
+| 9) Stojcheska 2024 - Fine-tuning **Code Generation Models with Compiler Feedback**                             | #llm | [Thesis](https://dspace.cuni.cz/bitstream/handle/20.500.11956/193178/130402231.pdf)
+| 10) Schieferdecker 2024 - Next-Gen Software Engineering: **AI-Assisted Big Models**                            | #llm | [Paper](https://arxiv.org/abs/2409.18048)
 
 ## Top References of the Week (September 16 - September 22) - 2024
 | **Reference**                                                                                                                                                                                                          | **Hashtag**                   | **Links**                                                                                                                      |
