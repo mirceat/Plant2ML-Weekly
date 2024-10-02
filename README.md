@@ -108,6 +108,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 |---------------------------------------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1) Adam Świderski - **IntelliJ IDEA as a LaTeX editor** - automation inside the IDE.                          | #scholar | [Blog](https://swiderski.tech/intellij-latex-editor/)
 | 2) Liu 2024 - **Logic-of-Thought**: Injecting Logic into Contexts for Full Reasoning in Large Language Models | #llm #reasoning | [Paper](https://arxiv.org/abs/2409.17539)
+| 3) Metzner 2024 - Systematic Teaching of **UML and Behavioral Diagrams** - page 167                           | | [Paper](https://drive.google.com/file/d/12YMXTLGl0afpd9_6odbvjmuxDoPSvFEs/view)
 
 ## Top References of the Week (August 5 - August 11) - 2024
 | **Reference**                                                                                                                         | **Hashtag**       | **Links**                                                                                                                                                         |
