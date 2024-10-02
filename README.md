@@ -104,9 +104,10 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 10) **Hugging Face NLP Course**                                                                                                                                                                                                                                                                                 | #course #nlproc #transformers | [HuggingFace](https://huggingface.co/learn/nlp-course/chapter1/1)
 
 ## Top References of the Week (August 12 - August 18) - 2024
-| **Reference**                                                                        | **Hashtag**       | **Links**                                                                                                                                                         |
-|--------------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1) Adam Świderski - **IntelliJ IDEA as a LaTeX editor** - automation inside the IDE. | #scholar | [Blog](https://swiderski.tech/intellij-latex-editor/)
+| **Reference**                                                                                                 | **Hashtag**       | **Links**                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) Adam Świderski - **IntelliJ IDEA as a LaTeX editor** - automation inside the IDE.                          | #scholar | [Blog](https://swiderski.tech/intellij-latex-editor/)
+| 2) Liu 2024 - **Logic-of-Thought**: Injecting Logic into Contexts for Full Reasoning in Large Language Models | #llm #reasoning | [Paper](https://arxiv.org/abs/2409.17539)
 
 ## Top References of the Week (August 5 - August 11) - 2024
 | **Reference**                                                                                                                         | **Hashtag**       | **Links**                                                                                                                                                         |
