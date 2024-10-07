@@ -115,6 +115,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 7) IcePanel - **Dynamic diagrams** in the C4 model | #diagrams | [Blog](https://icepanel.medium.com/dynamic-diagrams-in-the-c4-model-c6cb498e8622)
 | 8) The Smarter Way of Using AI in Programming - avoid the outdated methods of integrating AI into your coding workflow by going beyond ChatGPT | #llm | [Blog](https://towardsdatascience.com/the-smarter-way-of-using-ai-in-programming-0492ac610385)
 | 9) Turn Your **CSVs Into Graphs** Using LLMs - How do LLMs fare when attempting to create graphs from flat CSV files? | #llm | [Blog](https://medium.com/neo4j/turn-your-csvs-into-graphs-using-llms-49fb77a837b2)
+| 10) Engelhardt 2021 - A universal grammar for specifying visualization types - **VisDNA** | #diagrams | [Paper](https://research.utwente.nl/en/publications/a-universal-grammar-for-specifying-visualization-types#:~:text=A%20'universal%20grammar'%20for%20the,visual%20components%20that%20are%20used)
 
 ## Top References of the Week (August 5 - August 11) - 2024
 | **Reference**                                                                                                                         | **Hashtag**       | **Links**                                                                                                                                                         |
