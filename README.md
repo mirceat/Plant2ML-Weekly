@@ -49,9 +49,10 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 -->
 
 ## Top References of the Week (October 7 - October 13) - 2024
-| **Reference**                                                | **Hashtag**     | **Links**                                                                                                                      |
-|--------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------|
-| 1) ACM - Lessons Learned from Building **GitHub Copilot(s)** | #llm | [Webinar](https://events.zoom.us/ejl/An39kXAcIf8WCWhpFM6aB-vjCUv1K9HaPuWyDssVDSJhVQGqpIf7~A3bCP_6xHkmwPl5m-hzP0OPy6Kni0oMHD-vJFHYYlZ5VqlYL2A-ZoRPz8pK-F1JOEsR-hkj9tVIVwGrGP74T-DQ45MMyTWbB29fsi-W7BJsw/home)
+| **Reference**                                                                            | **Hashtag**     | **Links**                                                                                                                      |
+|------------------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) ACM - Lessons Learned from Building **GitHub Copilot(s)**                             | #llm | [Webinar](https://events.zoom.us/ejl/An39kXAcIf8WCWhpFM6aB-vjCUv1K9HaPuWyDssVDSJhVQGqpIf7~A3bCP_6xHkmwPl5m-hzP0OPy6Kni0oMHD-vJFHYYlZ5VqlYL2A-ZoRPz8pK-F1JOEsR-hkj9tVIVwGrGP74T-DQ45MMyTWbB29fsi-W7BJsw/home)
+| 2) Ziegler 2022 - Productivity Assessment of **Neural Code Completion** (GitHub Copilot) | #llm | [Paper](https://arxiv.org/abs/2205.06537)
 
 ## Top References of the Week (September 30 - October 6) - 2024
 | **Reference**                                                                                                                                                                                                                                                  | **Hashtag**     | **Links**                                                                                                                      |
