@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (October 7 - October 13)](./#top-references-of-the-week-october-7---october-13---2024)
 - [Top References of the Week (September 30 - October 6)](./#top-references-of-the-week-september-30---october-6---2024)
 - [Top References of the Week (September 23 - September 29)](./#top-references-of-the-week-september-23---september-29---2024)
 - [Top References of the Week (September 16 - September 22)](./#top-references-of-the-week-september-16---september-22---2024)
@@ -46,6 +47,11 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+## Top References of the Week (October 7 - October 13) - 2024
+| **Reference**                                                | **Hashtag**     | **Links**                                                                                                                      |
+|--------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) ACM - Lessons Learned from Building **GitHub Copilot(s)** | #llm | [Webinar](https://events.zoom.us/ejl/An39kXAcIf8WCWhpFM6aB-vjCUv1K9HaPuWyDssVDSJhVQGqpIf7~A3bCP_6xHkmwPl5m-hzP0OPy6Kni0oMHD-vJFHYYlZ5VqlYL2A-ZoRPz8pK-F1JOEsR-hkj9tVIVwGrGP74T-DQ45MMyTWbB29fsi-W7BJsw/home)
 
 ## Top References of the Week (September 30 - October 6) - 2024
 | **Reference**                                                                                                                                                                                                                                                  | **Hashtag**     | **Links**                                                                                                                      |
