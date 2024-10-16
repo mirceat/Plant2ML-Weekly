@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (October 14 - October 20)](./#top-references-of-the-week-october-14---october-20---2024)
 - [Top References of the Week (October 7 - October 13)](./#top-references-of-the-week-october-7---october-13---2024)
 - [Top References of the Week (September 30 - October 6)](./#top-references-of-the-week-september-30---october-6---2024)
 - [Top References of the Week (September 23 - September 29)](./#top-references-of-the-week-september-23---september-29---2024)
@@ -47,6 +48,14 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+## Top References of the Week (October 14 - October 20) - 2024
+| **Reference**                                                                                                                                   | **Hashtag** | **Links**                                                                                                                      |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) OpenAI Rolls Out **‘Canvas’ In ChatGPT** — A Brand New Writing and Coding Interface                                                          | #llm       | [Blog](https://generativeai.pub/openai-rolls-out-canvas-in-chatgpt-a-brand-new-writing-and-coding-interface-7b57a3ec582a)
+| 2) Introducing **canvas** - A new way of working with ChatGPT to write and code                                                                 | #llm       | [Blog](https://openai.com/index/introducing-canvas/)
+| 3) How Google’s Powerful **AI Notebook** Will Transform Your Research And Learning 4x your learning speed with a revolutionary note-taking system | #llm       | [Blog](https://levelup.gitconnected.com/how-googles-powerful-ai-notebook-will-transform-your-research-and-learning-116e116db4e0)
+| 4) **GraphRAG** — Knowledge Graph & LLM            | #llm #knowledgegraph | [Blog](https://medium.com/israeli-tech-radar/graphrag-knowledge-graph-llm-660c3b23ef4a)
 
 ## Top References of the Week (October 7 - October 13) - 2024
 | **Reference**                                                                                                                                                      | **Hashtag**   | **Links**                                                                                                                      |
