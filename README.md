@@ -56,6 +56,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 2) Introducing **canvas** - A new way of working with ChatGPT to write and code                                                                 | #llm       | [Blog](https://openai.com/index/introducing-canvas/)
 | 3) How Google’s Powerful **AI Notebook** Will Transform Your Research And Learning 4x your learning speed with a revolutionary note-taking system | #llm       | [Blog](https://levelup.gitconnected.com/how-googles-powerful-ai-notebook-will-transform-your-research-and-learning-116e116db4e0)
 | 4) **GraphRAG** — Knowledge Graph & LLM            | #llm #knowledgegraph | [Blog](https://medium.com/israeli-tech-radar/graphrag-knowledge-graph-llm-660c3b23ef4a)
+| 5) Ammosov 2024 - Generalized multiscale finite element method for **language competition modeling I**: Offline approach | | [Paper](https://www.sciencedirect.com/science/article/pii/S0377042723006738)
 
 ## Top References of the Week (October 7 - October 13) - 2024
 | **Reference**                                                                                                                                                      | **Hashtag**   | **Links**                                                                                                                      |
