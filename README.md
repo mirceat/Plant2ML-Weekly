@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (October 21 - October 27)](./#top-references-of-the-week-october-21---october-27---2024)
 - [Top References of the Week (October 14 - October 20)](./#top-references-of-the-week-october-14---october-20---2024)
 - [Top References of the Week (October 7 - October 13)](./#top-references-of-the-week-october-7---october-13---2024)
 - [Top References of the Week (September 30 - October 6)](./#top-references-of-the-week-september-30---october-6---2024)
@@ -48,6 +49,14 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+## Top References of the Week (October 21 - October 27) - 2024
+| **Reference**                                                                                                               | **Hashtag** | **Links**                                                                                                                      |
+|-----------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) OpenAI Rolls Out **SearchGPT** To More Users                                                                             | #llm | [Blog](https://generativeai.pub/openai-rolls-out-searchgpt-to-more-users-33024ff3132c)
+| 2) **RNNs** Are Coming Back To Take Over **Transformers**                                                                   | | [Blog](https://levelup.gitconnected.com/rnns-are-coming-back-to-take-over-transformers-yes-for-real-51697943bc67)
+| 3) Li 2024 - **Software Engineering and Foundation Models**: Insights from Industry Blogs Using a Jury of Foundation Models | #llm | [Paper](https://arxiv.org/abs/2410.09012) 
+
 
 ## Top References of the Week (October 14 - October 20) - 2024
 | **Reference**                                                                                                                                     | **Hashtag** | **Links**                                                                                                                      |
