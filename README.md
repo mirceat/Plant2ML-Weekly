@@ -51,12 +51,15 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 -->
 
 ## Top References of the Week (October 21 - October 27) - 2024
-| **Reference**                                                                                                               | **Hashtag** | **Links**                                                                                                                      |
-|-----------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------|
-| 1) OpenAI Rolls Out **SearchGPT** To More Users                                                                             | #llm | [Blog](https://generativeai.pub/openai-rolls-out-searchgpt-to-more-users-33024ff3132c)
-| 2) **RNNs** Are Coming Back To Take Over **Transformers**                                                                   | | [Blog](https://levelup.gitconnected.com/rnns-are-coming-back-to-take-over-transformers-yes-for-real-51697943bc67)
-| 3) Li 2024 - **Software Engineering and Foundation Models**: Insights from Industry Blogs Using a Jury of Foundation Models | #llm | [Paper](https://arxiv.org/abs/2410.09012) 
-
+| **Reference**                                                                                                                                                     | **Hashtag** | **Links**                                                                                                                      |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) OpenAI Rolls Out **SearchGPT** To More Users                                                                                                                   | #llm | [Blog](https://generativeai.pub/openai-rolls-out-searchgpt-to-more-users-33024ff3132c)
+| 2) **RNNs** Are Coming Back To Take Over **Transformers**                                                                                                         | | [Blog](https://levelup.gitconnected.com/rnns-are-coming-back-to-take-over-transformers-yes-for-real-51697943bc67)
+| 3) Li 2024 - **Software Engineering and Foundation Models**: Insights from Industry Blogs Using a Jury of Foundation Models                                       | #llm | [Paper](https://arxiv.org/abs/2410.09012) 
+| 4) The Sequence Chat: **Why Transformers are the Best Thing that Ever Happened to NVIDIA** A discussion about some controvertial and original ideas in AI.        | #transformers | [Blog](https://thesequence.substack.com/p/the-sequence-chat-why-transformers?utm_campaign=email-half-post&r=63cpl&utm_source=substack&utm_medium=email)
+| 5) Software Architecture: **Architecture Decision Record & C4** Capturing and storing architectural decisions                                                     | | [Blog](https://medium.com/decathlondigital/software-architecture-architecture-decision-record-c4-11ceff211baf)
+| 6) Hassan 2024 - Rethinking Software Engineering in the Era of Foundation Models - A Curated Catalogue of Challenges in the Development of Trustworthy **FMware** | #llm | [Paper](https://arxiv.org/abs/2402.15943)
+| 7) Steinmacher 2024 - **Can ChatGPT emulate humans in software engineering surveys?** | #llm | [Paper](https://dl.acm.org/doi/abs/10.1145/3674805.3690744)
 
 ## Top References of the Week (October 14 - October 20) - 2024
 | **Reference**                                                                                                                                     | **Hashtag** | **Links**                                                                                                                      |
