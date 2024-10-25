@@ -157,6 +157,9 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 1) Graph Theory and its Applications: **What Can Graphs Do for Your Software?** |             | [Blog](https://itnext.io/graph-theory-and-its-applications-what-can-graphs-do-for-your-software-9a746db6658c) [GitHub](https://github.com/helabenkhalfallah/code-health-meter/tree/main)
 | 2) Mottu 2024 - Emerging New Roles for **Low-Code Software Development Platforms** | #llm | [Paper](https://hal.science/hal-04742482v1/file/Lowcode_Models2024-MOTTU.pdf)
 | 3) Steinmacher 2024 - Can **ChatGPT** emulate humans in **software engineering surveys**? | #llm | [Paper](https://dl.acm.org/doi/abs/10.1145/3674805.3690744)
+| 4) How to Write 10,000+ Word Paper, Report or Book with AI | #llm | [Blog](https://medium.com/@datadrifters/how-to-write-10-000-word-paper-report-or-book-with-ai-c426672b6340)
+| 5) Why ChatGPT Loves Using These Symbols: < > | #llm | [Blog](https://ai.plainenglish.io/why-chatgpt-loves-using-these-symbols-3138a985a7eb)
+| 6) Dobkin 1990 - **Delaunay Graphs Are Almost as Good as Complete Graphs** * | #voronoi | [Paper](https://link.springer.com/article/10.1007/BF02187801)
 
 ## Top References of the Week (August 12 - August 18) - 2024
 | **Reference**                                                                                                 | **Hashtag**     | **Links**                                                                                                                                                         |
