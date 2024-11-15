@@ -152,13 +152,17 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 
 
 ## Top References of the Week (August 26 - September 1) - 2024
-| **Reference**                                                                                                 | **Hashtag** | **Links**                                                                                                                                                         |
-|---------------------------------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Reference**                                                                                                                                 | **Hashtag** | **Links**                                                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1) Tian 2024 - **FusionANNS**: An Efficient CPU/GPU Cooperative Processing Architecture for Billion-scale Approximate Nearest Neighbor Search |             | [Paper](https://arxiv.org/abs/2409.16576) 
-| 2) Salemohamed 2024 - Discovering Data Structures: **Nearest Neighbor Search** and Beyond |             | [Paper](https://arxiv.org/abs/2411.03253)
-| 3) Ootomo 2024 - **CAGRA**: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs |             | [paper](https://arxiv.org/abs/2308.15136)
-| 4) Bahri 2020 - AutoML for Stream k-Nearest Neighbors Classification | #automl     | [Paper](https://sci-hub.se/10.1109/bigdata50022.2020.9378396) 
-| 5) A Guide to **Graph RAG**, a New Way to Push the Boundaries of GenAI Apps | #llm        | [Blog](https://medium.com/building-the-open-data-stack/a-guide-to-graph-rag-a-new-way-to-push-the-boundaries-of-genai-apps-f616d47758a0)
+| 2) Salemohamed 2024 - Discovering Data Structures: **Nearest Neighbor Search** and Beyond                                                     |             | [Paper](https://arxiv.org/abs/2411.03253)
+| 3) Ootomo 2024 - **CAGRA**: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs                               |             | [paper](https://arxiv.org/abs/2308.15136)
+| 4) Bahri 2020 - AutoML for Stream k-Nearest Neighbors Classification                                                                          | #automl     | [Paper](https://sci-hub.se/10.1109/bigdata50022.2020.9378396) 
+| 5) A Guide to **Graph RAG**, a New Way to Push the Boundaries of GenAI Apps                                                                   | #llm        | [Blog](https://medium.com/building-the-open-data-stack/a-guide-to-graph-rag-a-new-way-to-push-the-boundaries-of-genai-apps-f616d47758a0)
+| 6) **Voronoi diagrams** with SciPy                                                                                                            | | [Blog](https://www.martinmcbride.org/post/2021/voronoi-diagrams-with-scipy/)
+| 7) Does anybody know how to use the **Approximate Nearest Neighbor Search** provide by **Spark MLlib**?                                       | | [StackOverflow](https://stackoverflow.com/questions/56252739/does-anybody-know-how-to-use-the-approximate-nearest-neighbor-search-provide-by)
+| 8) Rueda 2008 - Geometric Algorithms on CUDA                                                                                                  | | [Paper](https://www.nvidia.com/docs/io/47905/cuda-grapp.pdf)
+| 9) A GPU Approach to Voronoi Diagrams - WebGL Interactive Voronoi Diagram                                                                                                      | | [Blog](https://nullprogram.com/blog/2014/06/01/) [GitHub](https://github.com/skeeto/voronoi-toy)
 
 ## Top References of the Week (August 19 - August 25) - 2024
 | **Reference**                                                                                                 | **Hashtag** | **Links**                                                                                                                                                         |
