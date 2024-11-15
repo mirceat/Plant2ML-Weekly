@@ -17,6 +17,7 @@ Here is the weekly series:
 - [Top References of the Week (September 23 - September 29)](./#top-references-of-the-week-september-23---september-29---2024)
 - [Top References of the Week (September 16 - September 22)](./#top-references-of-the-week-september-16---september-22---2024)
 - [Top References of the Week (September 9 - September 15)](./#top-references-of-the-week-september-9---september-15---2024)
+- [Top References of the Week (August 26 - September 1)](./#top-references-of-the-week-august-26---september-1---2024)
 - [Top References of the Week (August 19 - August 25)](./#top-references-of-the-week-august-19---august-25---2024)
 - [Top References of the Week (August 12 - August 18)](./#top-references-of-the-week-august-12---august-18---2024)
 - [Top References of the Week (August 5 - August 11)](./#top-references-of-the-week-august-5---august-11---2024)
@@ -150,6 +151,14 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 10) **Hugging Face NLP Course**                                                                                                                                                                                                                                                                                 | #course #nlproc #transformers | [HuggingFace](https://huggingface.co/learn/nlp-course/chapter1/1)
 
 
+## Top References of the Week (August 26 - September 1) - 2024
+| **Reference**                                                                                                 | **Hashtag** | **Links**                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) Tian 2024 - **FusionANNS**: An Efficient CPU/GPU Cooperative Processing Architecture for Billion-scale Approximate Nearest Neighbor Search |             | [Paper](https://arxiv.org/abs/2409.16576) 
+| 2) Salemohamed 2024 - Discovering Data Structures: **Nearest Neighbor Search** and Beyond |             | [Paper](https://arxiv.org/abs/2411.03253)
+| 3) Ootomo 2024 - **CAGRA**: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs |             | [paper](https://arxiv.org/abs/2308.15136)
+| 4) Bahri 2020 - AutoML for Stream k-Nearest Neighbors Classification | #automl     | [Paper](https://sci-hub.se/10.1109/bigdata50022.2020.9378396) 
+| 5) A Guide to **Graph RAG**, a New Way to Push the Boundaries of GenAI Apps | #llm        | [Blog](https://medium.com/building-the-open-data-stack/a-guide-to-graph-rag-a-new-way-to-push-the-boundaries-of-genai-apps-f616d47758a0)
 
 ## Top References of the Week (August 19 - August 25) - 2024
 | **Reference**                                                                                                 | **Hashtag** | **Links**                                                                                                                                                         |
@@ -161,6 +170,9 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 5) Why ChatGPT Loves Using These Symbols: < > | #llm | [Blog](https://ai.plainenglish.io/why-chatgpt-loves-using-these-symbols-3138a985a7eb)
 | 6) Dobkin 1990 - **Delaunay Graphs Are Almost as Good as Complete Graphs** * | #voronoi | [Paper](https://link.springer.com/article/10.1007/BF02187801)
 | 7) Bahri 2020 - AutoML for **Stream k-Nearest Neighbors Classification** | #automl | [Paper](https://ieeexplore.ieee.org/document/9378396) [SciHub](https://sci-hub.se/10.1109/bigdata50022.2020.9378396)
+| 8) Wang 2024 - Do Advanced Language Models Eliminate the Need for **Prompt Engineering in Software Engineering?** | #llm | [Paper](https://arxiv.org/abs/2411.02093)
+| 9) Karthic  2024 - **BANG**: Billion-Scale Approximate Nearest Neighbor Search using a Single GPU | | [Paper](https://ssomesh.github.io/docs/papers/arxiv24a.pdf)
+| 10) Chen 2024 - Skills-in-Context: Unlocking **Compositionality in Large Language Models** | #llm | [Paper](https://aclanthology.org/2024.findings-emnlp.812.pdf)
 
 ## Top References of the Week (August 12 - August 18) - 2024
 | **Reference**                                                                                                 | **Hashtag**     | **Links**                                                                                                                                                         |
