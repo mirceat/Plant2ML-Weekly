@@ -54,7 +54,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
 
-## Top References of the Week (November 21 - November 26) - 2024
+## Top References of the Week (November 18 - November 24) - 2024
 | **Reference**                                                                                                        | **Hashtag** | **Links**                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------|
 | 1) ACM - **Product Management in the AI Era**                                                                        | #llm        | [Webinar](https://events.zoom.us/ejl/Aug9XSOWvaMn_glJD-pQfJ34IZnLZYYSPg6lCoU6jhZzE0fiiRpz~AyYfYc6kq-a0qL9l-cV4XJmR7_cVX-sby-dgF2XRlutC1akzJZ-sXjj1Z7uGJjNuUe6-bRfzuijZwXx9VFul-j_6rINk9hgcQ_Da8-W0Q/home) 
