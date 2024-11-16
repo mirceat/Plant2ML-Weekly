@@ -10,7 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
-- [Top References of the Week (November 18 - November 24)](./#top-references-of-the-week-november-18---november-26---2024)
+- [Top References of the Week (November 18 - November 24)](./#top-references-of-the-week-november-18---november-24---2024)
 
 - [Top References of the Week (October 21 - October 27)](./#top-references-of-the-week-october-21---october-27---2024)
 - [Top References of the Week (October 14 - October 20)](./#top-references-of-the-week-october-14---october-20---2024)
