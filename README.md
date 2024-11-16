@@ -10,6 +10,8 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (November 18 - November 24)](./#top-references-of-the-week-november-18---november-26---2024)
+
 - [Top References of the Week (October 21 - October 27)](./#top-references-of-the-week-october-21---october-27---2024)
 - [Top References of the Week (October 14 - October 20)](./#top-references-of-the-week-october-14---october-20---2024)
 - [Top References of the Week (October 7 - October 13)](./#top-references-of-the-week-october-7---october-13---2024)
@@ -51,6 +53,21 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+## Top References of the Week (November 21 - November 26) - 2024
+| **Reference**                                                                                                        | **Hashtag** | **Links**                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) ACM - **Product Management in the AI Era**                                                                        | #llm        | [Webinar](https://events.zoom.us/ejl/Aug9XSOWvaMn_glJD-pQfJ34IZnLZYYSPg6lCoU6jhZzE0fiiRpz~AyYfYc6kq-a0qL9l-cV4XJmR7_cVX-sby-dgF2XRlutC1akzJZ-sXjj1Z7uGJjNuUe6-bRfzuijZwXx9VFul-j_6rINk9hgcQ_Da8-W0Q/home) 
+| 2) Cignoni 1998 - DeWall: A fast divide and conquer **Delaunay triangulation algorithm in Ed**                       | #voronoi    | [Paper](https://www.researchgate.net/publication/220583434_DeWall_A_fast_divide_and_conquer_Delaunay_triangulation_algorithm_in_E_d)
+| 3) Delauney triangulation in high (>20) dimensions                                                                   | #voronoi    | [Blog](https://mathoverflow.net/questions/110835/delauney-triangulation-in-high-20-dimensions)
+| 4) Emelianenko 2024 - Adaptive Voronoi-based Column Selection Methods for Interpretable **Dimensionality Reduction** | #voronoi    | [Paper](https://arxiv.org/abs/2402.07325)
+| 5) **Four Levels of RAG** — Research from Microsoft | #llm        | [Blog](https://cobusgreyling.medium.com/four-levels-of-rag-research-from-microsoft-fdc54388f0ff)
+| 6) AI Innovations and Trends 02: VisRAG, GraphRAG, RAGLAB, and More | #llm        | [Blog](https://python.plainenglish.io/ai-innovations-and-trends-02-visrag-graphrag-raglab-and-more-84598513d947)
+| 7) Top 7 most common **UML diagram types** for software architecture | | [Blog](https://icepanel.medium.com/top-7-most-common-uml-diagram-types-for-software-architecture-3a43caaa2862)
+| 8) **GPT-5** is finally here — What To Expect and What Not To Expect | #llm | [Blog](https://medium.com/@don-lim/gpt-5-is-finally-here-what-to-expect-and-what-not-to-expect-9f90e5362408)
+
+
+
 
 ## Top References of the Week (October 21 - October 27) - 2024
 | **Reference**                                                                                                                                                     | **Hashtag** | **Links**                                                                                                                      |
@@ -151,18 +168,21 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 10) **Hugging Face NLP Course**                                                                                                                                                                                                                                                                                 | #course #nlproc #transformers | [HuggingFace](https://huggingface.co/learn/nlp-course/chapter1/1)
 
 
+
+
 ## Top References of the Week (August 26 - September 1) - 2024
-| **Reference**                                                                                                                                 | **Hashtag** | **Links**                                                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1) Tian 2024 - **FusionANNS**: An Efficient CPU/GPU Cooperative Processing Architecture for Billion-scale Approximate Nearest Neighbor Search |             | [Paper](https://arxiv.org/abs/2409.16576) 
-| 2) Salemohamed 2024 - Discovering Data Structures: **Nearest Neighbor Search** and Beyond                                                     |             | [Paper](https://arxiv.org/abs/2411.03253)
-| 3) Ootomo 2024 - **CAGRA**: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs                               |             | [paper](https://arxiv.org/abs/2308.15136)
-| 4) Bahri 2020 - AutoML for Stream k-Nearest Neighbors Classification                                                                          | #automl     | [Paper](https://sci-hub.se/10.1109/bigdata50022.2020.9378396) 
-| 5) A Guide to **Graph RAG**, a New Way to Push the Boundaries of GenAI Apps                                                                   | #llm        | [Blog](https://medium.com/building-the-open-data-stack/a-guide-to-graph-rag-a-new-way-to-push-the-boundaries-of-genai-apps-f616d47758a0)
-| 6) **Voronoi diagrams** with SciPy                                                                                                            | | [Blog](https://www.martinmcbride.org/post/2021/voronoi-diagrams-with-scipy/)
-| 7) Does anybody know how to use the **Approximate Nearest Neighbor Search** provide by **Spark MLlib**?                                       | | [StackOverflow](https://stackoverflow.com/questions/56252739/does-anybody-know-how-to-use-the-approximate-nearest-neighbor-search-provide-by)
-| 8) Rueda 2008 - Geometric Algorithms on CUDA                                                                                                  | | [Paper](https://www.nvidia.com/docs/io/47905/cuda-grapp.pdf)
-| 9) A GPU Approach to Voronoi Diagrams - WebGL Interactive Voronoi Diagram                                                                                                      | | [Blog](https://nullprogram.com/blog/2014/06/01/) [GitHub](https://github.com/skeeto/voronoi-toy)
+| **Reference**                                                                                                                                  | **Hashtag** | **Links**                                                                                                                                                         |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) Tian 2024 - **FusionANNS**: An Efficient CPU/GPU Cooperative Processing Architecture for Billion-scale Approximate Nearest Neighbor Search  |             | [Paper](https://arxiv.org/abs/2409.16576) 
+| 2) Salemohamed 2024 - Discovering Data Structures: **Nearest Neighbor Search** and Beyond                                                      |             | [Paper](https://arxiv.org/abs/2411.03253)
+| 3) Ootomo 2024 - **CAGRA**: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs                                |             | [paper](https://arxiv.org/abs/2308.15136)
+| 4) Bahri 2020 - AutoML for Stream k-Nearest Neighbors Classification                                                                           | #automl     | [Paper](https://sci-hub.se/10.1109/bigdata50022.2020.9378396) 
+| 5) A Guide to **Graph RAG**, a New Way to Push the Boundaries of GenAI Apps                                                                    | #llm        | [Blog](https://medium.com/building-the-open-data-stack/a-guide-to-graph-rag-a-new-way-to-push-the-boundaries-of-genai-apps-f616d47758a0)
+| 6) **Voronoi diagrams** with SciPy                                                                                                             | | [Blog](https://www.martinmcbride.org/post/2021/voronoi-diagrams-with-scipy/)
+| 7) Does anybody know how to use the **Approximate Nearest Neighbor Search** provide by **Spark MLlib**?                                        | | [StackOverflow](https://stackoverflow.com/questions/56252739/does-anybody-know-how-to-use-the-approximate-nearest-neighbor-search-provide-by)
+| 8) Rueda 2008 - Geometric Algorithms on CUDA                                                                                                   | | [Paper](https://www.nvidia.com/docs/io/47905/cuda-grapp.pdf)
+| 9) A GPU Approach to Voronoi Diagrams - WebGL Interactive Voronoi Diagram                                                                      | | [Blog](https://nullprogram.com/blog/2014/06/01/) [GitHub](https://github.com/skeeto/voronoi-toy)
+| 10) My Favourite **Software Architecture Patterns** - Exploring my most loved Software Architecture patterns and their practical applications. | | [Blog](https://levelup.gitconnected.com/my-favourite-software-architecture-patterns-0e57073b4be1)
 
 ## Top References of the Week (August 19 - August 25) - 2024
 | **Reference**                                                                                                 | **Hashtag** | **Links**                                                                                                                                                         |
