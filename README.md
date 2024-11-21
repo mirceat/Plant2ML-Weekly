@@ -11,6 +11,7 @@ Here is the weekly series:
 
 ## 2024
 - [Top References of the Week (November 18 - November 24)](./#top-references-of-the-week-november-18---november-24---2024)
+- [Top References of the Week (November 11 - November 17)](./#top-references-of-the-week-november-11---november-17---2024)
 
 - [Top References of the Week (October 21 - October 27)](./#top-references-of-the-week-october-21---october-27---2024)
 - [Top References of the Week (October 14 - October 20)](./#top-references-of-the-week-october-14---october-20---2024)
@@ -55,16 +56,30 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 -->
 
 ## Top References of the Week (November 18 - November 24) - 2024
-| **Reference**                                                                                                        | **Hashtag** | **Links**                                                                                                                      |
-|----------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------|
-| 1) ACM - **Product Management in the AI Era**                                                                        | #llm        | [Webinar](https://events.zoom.us/ejl/Aug9XSOWvaMn_glJD-pQfJ34IZnLZYYSPg6lCoU6jhZzE0fiiRpz~AyYfYc6kq-a0qL9l-cV4XJmR7_cVX-sby-dgF2XRlutC1akzJZ-sXjj1Z7uGJjNuUe6-bRfzuijZwXx9VFul-j_6rINk9hgcQ_Da8-W0Q/home) 
-| 2) Cignoni 1998 - DeWall: A fast divide and conquer **Delaunay triangulation algorithm in Ed**                       | #voronoi    | [Paper](https://www.researchgate.net/publication/220583434_DeWall_A_fast_divide_and_conquer_Delaunay_triangulation_algorithm_in_E_d)
-| 3) Delauney triangulation in high (>20) dimensions                                                                   | #voronoi    | [Blog](https://mathoverflow.net/questions/110835/delauney-triangulation-in-high-20-dimensions)
-| 4) Emelianenko 2024 - Adaptive Voronoi-based Column Selection Methods for Interpretable **Dimensionality Reduction** | #voronoi    | [Paper](https://arxiv.org/abs/2402.07325)
-| 5) **Four Levels of RAG** — Research from Microsoft | #llm        | [Blog](https://cobusgreyling.medium.com/four-levels-of-rag-research-from-microsoft-fdc54388f0ff)
-| 6) AI Innovations and Trends 02: VisRAG, GraphRAG, RAGLAB, and More | #llm        | [Blog](https://python.plainenglish.io/ai-innovations-and-trends-02-visrag-graphrag-raglab-and-more-84598513d947)
-| 7) Top 7 most common **UML diagram types** for software architecture | | [Blog](https://icepanel.medium.com/top-7-most-common-uml-diagram-types-for-software-architecture-3a43caaa2862)
-| 8) **GPT-5** is finally here — What To Expect and What Not To Expect | #llm | [Blog](https://medium.com/@don-lim/gpt-5-is-finally-here-what-to-expect-and-what-not-to-expect-9f90e5362408)
+| **Reference**                                                                                                        | **Hashtag**   | **Links**                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) ACM - **Product Management in the AI Era**                                                                        | #llm          | [Webinar](https://events.zoom.us/ejl/Aug9XSOWvaMn_glJD-pQfJ34IZnLZYYSPg6lCoU6jhZzE0fiiRpz~AyYfYc6kq-a0qL9l-cV4XJmR7_cVX-sby-dgF2XRlutC1akzJZ-sXjj1Z7uGJjNuUe6-bRfzuijZwXx9VFul-j_6rINk9hgcQ_Da8-W0Q/home) 
+| 2) Cignoni 1998 - DeWall: A fast divide and conquer **Delaunay triangulation algorithm in Ed**                       | #voronoi      | [Paper](https://www.researchgate.net/publication/220583434_DeWall_A_fast_divide_and_conquer_Delaunay_triangulation_algorithm_in_E_d)
+| 3) Delauney triangulation in high (>20) dimensions                                                                   | #voronoi      | [Blog](https://mathoverflow.net/questions/110835/delauney-triangulation-in-high-20-dimensions)
+| 4) Emelianenko 2024 - Adaptive Voronoi-based Column Selection Methods for Interpretable **Dimensionality Reduction** | #voronoi      | [Paper](https://arxiv.org/abs/2402.07325)
+| 5) **Four Levels of RAG** — Research from Microsoft                                                                  | #llm          | [Blog](https://cobusgreyling.medium.com/four-levels-of-rag-research-from-microsoft-fdc54388f0ff)
+| 6) AI Innovations and Trends 02: VisRAG, GraphRAG, RAGLAB, and More                                                  | #llm          | [Blog](https://python.plainenglish.io/ai-innovations-and-trends-02-visrag-graphrag-raglab-and-more-84598513d947)
+| 7) Top 7 most common **UML diagram types** for software architecture                                                 |               | [Blog](https://icepanel.medium.com/top-7-most-common-uml-diagram-types-for-software-architecture-3a43caaa2862)
+| 8) **GPT-5** is finally here — What To Expect and What Not To Expect                                                 | #llm          | [Blog](https://medium.com/@don-lim/gpt-5-is-finally-here-what-to-expect-and-what-not-to-expect-9f90e5362408)
+| 9) **Tokenformer**: The Next Generation of Transformers? | #transformers | [Blog](https://medium.com/@aipapers/tokenformer-the-next-generation-of-transformers-d55bb78dff9a)
+| 10) Tie 2024 - LLMs are Imperfect, Then What? An Empirical Study on **LLM Failures in Software Engineering** | #llm | [Paper](https://arxiv.org/abs/2411.09916)
+
+## Top References of the Week (November 11 - November 17) - 2024
+| **Reference**                                                                                                                                                   | **Hashtag**  | **Links**                                                               |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------|
+| 1) Pan 2024 - Survey of **vector database** management systems                                                                                                  |              | [Paper](https://link.springer.com/article/10.1007/s00778-024-00864-x)   
+| 2) **IcePanel vs LucidChart**                                                                                                                                   |              | [Blog](https://icepanel.medium.com/icepanel-vs-lucidchart-3d47722556e4) 
+| 3) **Ontology Reasoning in Knowledge Graphs** - A Python hands-on guide to understand the principles of generating new knowledge by following logical processes | #semanticweb | [Blog]()                                                                
+| 4) Building a **Python Toolbox for Robot** Behavior                                                                                                             | | [Blog](https://roboticseabass.com/2022/06/19/building-a-python-toolbox-for-robot-behavior/)     
+| 5) **Voronoi Tilings**: Mathematics Serving Art                                                                                                                 | #voronoi | [Blog](https://occupymath.wordpress.com/2018/04/12/voronoi-tilings-mathematics-serving-art/) 
+| 6) Yamagishi 2015 - **Voronoi spiral tilings** | #voronoi | [Paper](https://www.researchgate.net/publication/273526050_Voronoi_spiral_tilings)
+| 7) Oda 2011 - **VORONOI TILINGS HIDDEN IN CRYSTALS** —THE CASE OF MAXIMAL ABELIAN COVERINGS— | #voronoi | [Paper](https://projecteuclid.org/journals/tohoku-mathematical-journal/volume-65/issue-1/Voronoi-tilings-hidden-in-crystals----the-case/10.2748/tmj/1365452622.pdf)
+| 8) Cavallaro 2010 - **A tile-based approach for self-assembling service compositions** | | [Paper](https://bugcounting.net/pubs/iceccs10-tiles.pdf)
 
 
 
