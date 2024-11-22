@@ -12,6 +12,7 @@ Here is the weekly series:
 ## 2024
 - [Top References of the Week (November 18 - November 24)](./#top-references-of-the-week-november-18---november-24---2024)
 - [Top References of the Week (November 11 - November 17)](./#top-references-of-the-week-november-11---november-17---2024)
+- [Top References of the Week (November 4 - November 10)](./#top-references-of-the-week-november-4---november-10---2024)
 
 - [Top References of the Week (October 21 - October 27)](./#top-references-of-the-week-october-21---october-27---2024)
 - [Top References of the Week (October 14 - October 20)](./#top-references-of-the-week-october-14---october-20---2024)
@@ -77,9 +78,17 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 3) **Ontology Reasoning in Knowledge Graphs** - A Python hands-on guide to understand the principles of generating new knowledge by following logical processes | #semanticweb | [Blog]()                                                                
 | 4) Building a **Python Toolbox for Robot** Behavior                                                                                                             | | [Blog](https://roboticseabass.com/2022/06/19/building-a-python-toolbox-for-robot-behavior/)     
 | 5) **Voronoi Tilings**: Mathematics Serving Art                                                                                                                 | #voronoi | [Blog](https://occupymath.wordpress.com/2018/04/12/voronoi-tilings-mathematics-serving-art/) 
-| 6) Yamagishi 2015 - **Voronoi spiral tilings** | #voronoi | [Paper](https://www.researchgate.net/publication/273526050_Voronoi_spiral_tilings)
-| 7) Oda 2011 - **VORONOI TILINGS HIDDEN IN CRYSTALS** —THE CASE OF MAXIMAL ABELIAN COVERINGS— | #voronoi | [Paper](https://projecteuclid.org/journals/tohoku-mathematical-journal/volume-65/issue-1/Voronoi-tilings-hidden-in-crystals----the-case/10.2748/tmj/1365452622.pdf)
-| 8) Cavallaro 2010 - **A tile-based approach for self-assembling service compositions** | | [Paper](https://bugcounting.net/pubs/iceccs10-tiles.pdf)
+| 6) Yamagishi 2015 - **Voronoi spiral tilings**                                                                                                                  | #voronoi | [Paper](https://www.researchgate.net/publication/273526050_Voronoi_spiral_tilings)
+| 7) Oda 2011 - **VORONOI TILINGS HIDDEN IN CRYSTALS** —THE CASE OF MAXIMAL ABELIAN COVERINGS—                                                                    | #voronoi | [Paper](https://projecteuclid.org/journals/tohoku-mathematical-journal/volume-65/issue-1/Voronoi-tilings-hidden-in-crystals----the-case/10.2748/tmj/1365452622.pdf)
+| 8) Cavallaro 2010 - **A tile-based approach for self-assembling service compositions**                                                                          | | [Paper](https://bugcounting.net/pubs/iceccs10-tiles.pdf)
+| 9) Lücke - **Streets to the OPRA** — Finding your destination with imprecise knowledge                                                                          | | [Paper](https://www.dfki.de/fileadmin/user_upload/import/5837_ijcai-ws-11.pdf)
+| 10) Moratz 2011 - **Streets to the OPRA** - Finding your destination with imprecise knowledge | | [Paper](https://www.academia.edu/2715625/Streets_to_the_OPRA_Finding_your_destination_with_imprecise_knowledge)
+
+## Top References of the Week (November 4 - November 10) - 2024
+| **Reference**                                                                        | **Hashtag** | **Links**                                                               |
+|--------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------|
+| 1) How to draw (and paint) the **Voronoi regions of a series of points using Tikz?** | #voronoi    | [StackExchange](https://tex.stackexchange.com/questions/138668/how-to-draw-and-paint-the-voronoi-regions-of-a-series-of-points-using-tikz) 
+
 
 
 
