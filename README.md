@@ -88,7 +88,8 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | **Reference**                                                                        | **Hashtag** | **Links**                                                               |
 |--------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------|
 | 1) How to draw (and paint) the **Voronoi regions of a series of points using Tikz?** | #voronoi    | [StackExchange](https://tex.stackexchange.com/questions/138668/how-to-draw-and-paint-the-voronoi-regions-of-a-series-of-points-using-tikz) 
-
+| 2) 3x Faster **Literature Review** with Advanced ChatGPT and Claude AI Prompts | #llm | [Blog](https://medium.com/@Vugar_Ibrahimov/3x-faster-literature-review-with-advanced-chatgpt-and-claude-ai-prompts-a6d835c07f5f)
+| 3) 🔮 From ChatGPT to **a billion agents** - 2025 will be the year of agents | #llm | [Blog](https://www.exponentialview.co/p/from-chatgpt-to-a-billion-agents)
 
 
 
