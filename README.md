@@ -88,8 +88,11 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | **Reference**                                                                        | **Hashtag** | **Links**                                                               |
 |--------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------|
 | 1) How to draw (and paint) the **Voronoi regions of a series of points using Tikz?** | #voronoi    | [StackExchange](https://tex.stackexchange.com/questions/138668/how-to-draw-and-paint-the-voronoi-regions-of-a-series-of-points-using-tikz) 
-| 2) 3x Faster **Literature Review** with Advanced ChatGPT and Claude AI Prompts | #llm | [Blog](https://medium.com/@Vugar_Ibrahimov/3x-faster-literature-review-with-advanced-chatgpt-and-claude-ai-prompts-a6d835c07f5f)
-| 3) 🔮 From ChatGPT to **a billion agents** - 2025 will be the year of agents | #llm | [Blog](https://www.exponentialview.co/p/from-chatgpt-to-a-billion-agents)
+| 2) 3x Faster **Literature Review** with Advanced ChatGPT and Claude AI Prompts       | #llm | [Blog](https://medium.com/@Vugar_Ibrahimov/3x-faster-literature-review-with-advanced-chatgpt-and-claude-ai-prompts-a6d835c07f5f)
+| 3) 🔮 From ChatGPT to **a billion agents** - 2025 will be the year of agents         | #llm | [Blog](https://www.exponentialview.co/p/from-chatgpt-to-a-billion-agents)
+| 4) Introducing a **Python-Based Reasoning Engine** for Deterministic AI              | #llm #reasoning #knowledgegraph | [Blog](https://medium.com/enterprise-rag/python-based-reasoning-engine-for-deterministic-ai-25722f9047e8) [GitHub](https://www.whyhow.ai/)
+| 5) Open-Sourcing the **WhyHow Knowledge Graph Studio**, powered by NoSQL             | #llm #knowledgegraph | [Blog](https://medium.com/enterprise-rag/open-sourcing-the-whyhow-knowledge-graph-studio-powered-by-nosql-edce283fb341) [GitHub](https://github.com/whyhow-ai/knowledge-graph-studio) 
+| 6) **Knowledge Table** — Multi-Document RAG (Extraction & Memory) | #llm #knowledgegraph | [Blog](https://medium.com/enterprise-rag/knowledge-table-multi-document-rag-extraction-memory-ec08450e858f) [Material for MkDocs](https://whyhow-ai.github.io/whyhow-sdk-docs/examples/create_graph_from_knowledge_table/)
 
 
 
