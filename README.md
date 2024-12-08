@@ -93,7 +93,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 4) Introducing a **Python-Based Reasoning Engine** for Deterministic AI              | #llm #reasoning #knowledgegraph | [Blog](https://medium.com/enterprise-rag/python-based-reasoning-engine-for-deterministic-ai-25722f9047e8) [GitHub](https://www.whyhow.ai/)
 | 5) Open-Sourcing the **WhyHow Knowledge Graph Studio**, powered by NoSQL             | #llm #knowledgegraph | [Blog](https://medium.com/enterprise-rag/open-sourcing-the-whyhow-knowledge-graph-studio-powered-by-nosql-edce283fb341) [GitHub](https://github.com/whyhow-ai/knowledge-graph-studio) 
 | 6) **Knowledge Table** — Multi-Document RAG (Extraction & Memory) | #llm #knowledgegraph | [Blog](https://medium.com/enterprise-rag/knowledge-table-multi-document-rag-extraction-memory-ec08450e858f) [Material for MkDocs](https://whyhow-ai.github.io/whyhow-sdk-docs/examples/create_graph_from_knowledge_table/)
-
+| 7) Carvalho 2024 - An Integrated Framework for **Analysing, Simulating and Testing UML Models** | | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78116-2_6)
 
 
 
