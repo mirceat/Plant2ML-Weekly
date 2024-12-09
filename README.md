@@ -13,7 +13,7 @@ Here is the weekly series:
 - [Top References of the Week (November 18 - November 24)](./#top-references-of-the-week-november-18---november-24---2024)
 - [Top References of the Week (November 11 - November 17)](./#top-references-of-the-week-november-11---november-17---2024)
 - [Top References of the Week (November 4 - November 10)](./#top-references-of-the-week-november-4---november-10---2024)
-
+- [Top References of the Week (October 28 - November 3)](./#top-references-of-the-week-october-28---november-3---2024)
 - [Top References of the Week (October 21 - October 27)](./#top-references-of-the-week-october-21---october-27---2024)
 - [Top References of the Week (October 14 - October 20)](./#top-references-of-the-week-october-14---october-20---2024)
 - [Top References of the Week (October 7 - October 13)](./#top-references-of-the-week-october-7---october-13---2024)
@@ -85,15 +85,25 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 10) Moratz 2011 - **Streets to the OPRA** - Finding your destination with imprecise knowledge | | [Paper](https://www.academia.edu/2715625/Streets_to_the_OPRA_Finding_your_destination_with_imprecise_knowledge)
 
 ## Top References of the Week (November 4 - November 10) - 2024
-| **Reference**                                                                        | **Hashtag** | **Links**                                                               |
-|--------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------|
-| 1) How to draw (and paint) the **Voronoi regions of a series of points using Tikz?** | #voronoi    | [StackExchange](https://tex.stackexchange.com/questions/138668/how-to-draw-and-paint-the-voronoi-regions-of-a-series-of-points-using-tikz) 
-| 2) 3x Faster **Literature Review** with Advanced ChatGPT and Claude AI Prompts       | #llm | [Blog](https://medium.com/@Vugar_Ibrahimov/3x-faster-literature-review-with-advanced-chatgpt-and-claude-ai-prompts-a6d835c07f5f)
-| 3) 🔮 From ChatGPT to **a billion agents** - 2025 will be the year of agents         | #llm | [Blog](https://www.exponentialview.co/p/from-chatgpt-to-a-billion-agents)
-| 4) Introducing a **Python-Based Reasoning Engine** for Deterministic AI              | #llm #reasoning #knowledgegraph | [Blog](https://medium.com/enterprise-rag/python-based-reasoning-engine-for-deterministic-ai-25722f9047e8) [GitHub](https://www.whyhow.ai/)
-| 5) Open-Sourcing the **WhyHow Knowledge Graph Studio**, powered by NoSQL             | #llm #knowledgegraph | [Blog](https://medium.com/enterprise-rag/open-sourcing-the-whyhow-knowledge-graph-studio-powered-by-nosql-edce283fb341) [GitHub](https://github.com/whyhow-ai/knowledge-graph-studio) 
-| 6) **Knowledge Table** — Multi-Document RAG (Extraction & Memory) | #llm #knowledgegraph | [Blog](https://medium.com/enterprise-rag/knowledge-table-multi-document-rag-extraction-memory-ec08450e858f) [Material for MkDocs](https://whyhow-ai.github.io/whyhow-sdk-docs/examples/create_graph_from_knowledge_table/)
-| 7) Carvalho 2024 - An Integrated Framework for **Analysing, Simulating and Testing UML Models** | | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78116-2_6)
+| **Reference**                                                                                   | **Hashtag**                     | **Links**                                                                                                                                                                                                                  |
+|-------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) How to draw (and paint) the **Voronoi regions of a series of points using Tikz?**            | #voronoi                        | [StackExchange](https://tex.stackexchange.com/questions/138668/how-to-draw-and-paint-the-voronoi-regions-of-a-series-of-points-using-tikz)                                                                                 
+| 2) 3x Faster **Literature Review** with Advanced ChatGPT and Claude AI Prompts                  | #llm                            | [Blog](https://medium.com/@Vugar_Ibrahimov/3x-faster-literature-review-with-advanced-chatgpt-and-claude-ai-prompts-a6d835c07f5f)                                                                                           
+| 3) 🔮 From ChatGPT to **a billion agents** - 2025 will be the year of agents                    | #llm                            | [Blog](https://www.exponentialview.co/p/from-chatgpt-to-a-billion-agents)                                                                                                                                                  
+| 4) Introducing a **Python-Based Reasoning Engine** for Deterministic AI                         | #llm #reasoning #knowledgegraph | [Blog](https://medium.com/enterprise-rag/python-based-reasoning-engine-for-deterministic-ai-25722f9047e8) [GitHub](https://www.whyhow.ai/)                                                                                 
+| 5) Open-Sourcing the **WhyHow Knowledge Graph Studio**, powered by NoSQL                        | #llm #knowledgegraph            | [Blog](https://medium.com/enterprise-rag/open-sourcing-the-whyhow-knowledge-graph-studio-powered-by-nosql-edce283fb341) [GitHub](https://github.com/whyhow-ai/knowledge-graph-studio)                                      
+| 6) **Knowledge Table** — Multi-Document RAG (Extraction & Memory)                               | #llm #knowledgegraph            | [Blog](https://medium.com/enterprise-rag/knowledge-table-multi-document-rag-extraction-memory-ec08450e858f) [Material for MkDocs](https://whyhow-ai.github.io/whyhow-sdk-docs/examples/create_graph_from_knowledge_table/) 
+| 7) Carvalho 2024 - An Integrated Framework for **Analysing, Simulating and Testing UML Models** |                                 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-78116-2_6)                                                                                                                                                     
+| 8) Machine Learning and Reliable System Analysis with **Astah**                                 |                                 | [Blog](https://astahblog.com/2023/10/11/machine-learning-and-reliable-system-analysis-with-astah/)                                                                                                                                                                                                                   | 
+| 9) **MLflow Model Registry**: Workflows, Benefits & Challenges                                  |                                 | [Blog](https://lakefs.io/blog/mlflow-model-registry/) [lakeFS](https://lakefs.io/)
+| 10) Automated Testing in Isolated Environments with GitHub Actions and **lakeFS** | #etl                            | [Blog](https://lakefs.io/blog/automated-testing-etl/)
+
+## Top References of the Week (October 28 - November 3) - 2024
+| **Reference**                                                                                                                     | **Hashtag**                     | **Links**                                                                                                                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1) **ML and GenAI made simple** - Build better models and generative AI apps on a unified, end-to-end, open source MLOps platform | #ml | [Website](https://mlflow.org/)
+| 2) Washizaki 2022 - **Software-Engineering Design Patterns for Machine Learning Applications**                                    | #ml #designpatterns | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9734272)
+| 3) Martínez-Fernández 2021 - **Software Engineering for AI-Based Systems**: A Survey                                              | | [Paper](https://arxiv.org/abs/2105.01984)
 
 
 
