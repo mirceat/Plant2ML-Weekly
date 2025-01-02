@@ -99,12 +99,16 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 10) Automated Testing in Isolated Environments with GitHub Actions and **lakeFS** | #etl                            | [Blog](https://lakefs.io/blog/automated-testing-etl/)
 
 ## Top References of the Week (October 28 - November 3) - 2024
-| **Reference**                                                                                                                     | **Hashtag**         | **Links**                                                             |
-|-----------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------------------------------|
-| 1) **ML and GenAI made simple** - Build better models and generative AI apps on a unified, end-to-end, open source MLOps platform | #ml                 | [Website](https://mlflow.org/)                                        
-| 2) Washizaki 2022 - **Software-Engineering Design Patterns for Machine Learning Applications**                                    | #ml #designpatterns | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9734272) 
-| 3) Martínez-Fernández 2021 - **Software Engineering for AI-Based Systems**: A Survey                                              |                     | [Paper](https://arxiv.org/abs/2105.01984)                             
-| 4) Research to Reality: Building **Production-Ready LLM Apps** Users Can Trust | #llm | [Webinar](https://events.zoom.us/ev/AnS0TL61il-lC-HpZSc_PtOmuob1gugyFp9pOP8oMtKNeL-gCH5W~Aho1aHCGUVV3qxnTaGNTHAr9ThJT6T2hunbW_fa9r3gCCLCeyF9gQCqCTQ)                                                           | 
+| **Reference**                                                                                                                         | **Hashtag**         | **Links**                                                             |
+|---------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------------------------------|
+| 1) **ML and GenAI made simple** - Build better models and generative AI apps on a unified, end-to-end, open source MLOps platform     | #ml                 | [Website](https://mlflow.org/)                                        
+| 2) Washizaki 2022 - **Software-Engineering Design Patterns for Machine Learning Applications**                                        | #ml #designpatterns | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9734272) 
+| 3) Martínez-Fernández 2021 - **Software Engineering for AI-Based Systems**: A Survey                                                  |                     | [Paper](https://arxiv.org/abs/2105.01984)                             
+| 4) Research to Reality: Building **Production-Ready LLM Apps** Users Can Trust                                                        | #llm                | [Webinar](https://events.zoom.us/ev/AnS0TL61il-lC-HpZSc_PtOmuob1gugyFp9pOP8oMtKNeL-gCH5W~Aho1aHCGUVV3qxnTaGNTHAr9ThJT6T2hunbW_fa9r3gCCLCeyF9gQCqCTQ)                                                           | 
+| 5) Hewing 2024 - The **Prompt Canvas**: A Literature-Based Practitioner Guide for Creating Effective Prompts in Large Language Models | #llm                | [Paper](https://arxiv.org/abs/2412.05127)
+| 6) Barrault 2024 - **Large Concept Models**: Language Modeling in a Sentence Representation Space | | [Paper](https://arxiv.org/abs/2412.08821) [GitHub](https://github.com/facebookresearch/large_concept_model)
+
+
 
 
 ## Top References of the Week (October 21 - October 27) - 2024
