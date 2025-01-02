@@ -1,7 +1,7 @@
 # 🏭 Plant2<span style="color:red">ML</span> Weekly Highlights
 
 ## 2025
-- [Top References of the Week (December 30 - January 5)](./#top-references-of-the-week-december-30---january-5---2024)
+- [Top References of the Week (December 30 - January 5)](#top-references-of-the-week-december-30---january-5---2024)
 
 ## Top References of the Week (December 30 - January 5) - 2025
 | **Reference**                                                                                                                                | **Hashtag**          | **Links**                                                                                                                      |
