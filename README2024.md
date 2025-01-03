@@ -107,7 +107,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 4) Research to Reality: Building **Production-Ready LLM Apps** Users Can Trust                                                        | #llm                | [Webinar](https://events.zoom.us/ev/AnS0TL61il-lC-HpZSc_PtOmuob1gugyFp9pOP8oMtKNeL-gCH5W~Aho1aHCGUVV3qxnTaGNTHAr9ThJT6T2hunbW_fa9r3gCCLCeyF9gQCqCTQ)                                                           | 
 | 5) Hewing 2024 - The **Prompt Canvas**: A Literature-Based Practitioner Guide for Creating Effective Prompts in Large Language Models | #llm                | [Paper](https://arxiv.org/abs/2412.05127)
 | 6) Barrault 2024 - **Large Concept Models**: Language Modeling in a Sentence Representation Space | | [Paper](https://arxiv.org/abs/2412.08821) [GitHub](https://github.com/facebookresearch/large_concept_model)
-
+| 7) Frattini 2024 - Replications, Revisions, and Reanalyses: Managing **Variance Theories in Software Engineering** | | [Paper](https://arxiv.org/abs/2412.12634)
 
 
 
