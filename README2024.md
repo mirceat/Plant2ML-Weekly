@@ -108,6 +108,7 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 5) Hewing 2024 - The **Prompt Canvas**: A Literature-Based Practitioner Guide for Creating Effective Prompts in Large Language Models | #llm                | [Paper](https://arxiv.org/abs/2412.05127)
 | 6) Barrault 2024 - **Large Concept Models**: Language Modeling in a Sentence Representation Space | | [Paper](https://arxiv.org/abs/2412.08821) [GitHub](https://github.com/facebookresearch/large_concept_model)
 | 7) Frattini 2024 - Replications, Revisions, and Reanalyses: Managing **Variance Theories in Software Engineering** | | [Paper](https://arxiv.org/abs/2412.12634)
+| 8) The Amazing Possibilities When We Soon Achieve **Near-Infinite Memory** For Generative AI And LLMs | #llm | [Forbes](https://www.forbes.com/sites/lanceeliot/2025/01/01/the-amazing-possibilities-when-we-soon-achieve-near-infinite-memory-for-generative-ai-and-llms/)
 
 
 
