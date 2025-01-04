@@ -10,6 +10,7 @@ Explore our weekly top highlights in #machinelearning, featuring PlantUML-powere
 Here is the weekly series:
 
 ## 2024
+- [Top References of the Week (November 25 - December 1)](#top-references-of-the-week-november-25---december-1---2024)
 - [Top References of the Week (November 18 - November 24)](#top-references-of-the-week-november-18---november-24---2024)
 - [Top References of the Week (November 11 - November 17)](#top-references-of-the-week-november-11---november-17---2024)
 - [Top References of the Week (November 4 - November 10)](#top-references-of-the-week-november-4---november-10---2024)
@@ -55,6 +56,14 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 <!--
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 -->
+
+## Top References of the Week (November 25 - December 1) - 2024
+| **Reference**                                                                                                        | **Hashtag**   | **Links**                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) AI-powered **UI/UX testing with Claude Computer Use** | #llm | [Blog](https://medium.com/codex/has-anthropic-just-wiped-out-the-software-testing-industry-0bb6305adcc2)
+| 2) Has **Anthropic Claude** just wiped out an entire industry? | #llm | [Blog](https://medium.com/codex/has-anthropic-claude-just-wiped-out-an-entire-industry-fc1ada7a8d91)
+
+
 
 ## Top References of the Week (November 18 - November 24) - 2024
 | **Reference**                                                                                                        | **Hashtag**   | **Links**                                                                                                                      |
@@ -106,10 +115,11 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 | 3) Martínez-Fernández 2021 - **Software Engineering for AI-Based Systems**: A Survey                                                  |                     | [Paper](https://arxiv.org/abs/2105.01984)                             
 | 4) Research to Reality: Building **Production-Ready LLM Apps** Users Can Trust                                                        | #llm                | [Webinar](https://events.zoom.us/ev/AnS0TL61il-lC-HpZSc_PtOmuob1gugyFp9pOP8oMtKNeL-gCH5W~Aho1aHCGUVV3qxnTaGNTHAr9ThJT6T2hunbW_fa9r3gCCLCeyF9gQCqCTQ)                                                           | 
 | 5) Hewing 2024 - The **Prompt Canvas**: A Literature-Based Practitioner Guide for Creating Effective Prompts in Large Language Models | #llm                | [Paper](https://arxiv.org/abs/2412.05127)
-| 6) Barrault 2024 - **Large Concept Models**: Language Modeling in a Sentence Representation Space | | [Paper](https://arxiv.org/abs/2412.08821) [GitHub](https://github.com/facebookresearch/large_concept_model)
-| 7) Frattini 2024 - Replications, Revisions, and Reanalyses: Managing **Variance Theories in Software Engineering** | | [Paper](https://arxiv.org/abs/2412.12634)
-| 8) The Amazing Possibilities When We Soon Achieve **Near-Infinite Memory** For Generative AI And LLMs | #llm | [Forbes](https://www.forbes.com/sites/lanceeliot/2025/01/01/the-amazing-possibilities-when-we-soon-achieve-near-infinite-memory-for-generative-ai-and-llms/)
-
+| 6) Barrault 2024 - **Large Concept Models**: Language Modeling in a Sentence Representation Space                                     | | [Paper](https://arxiv.org/abs/2412.08821) [GitHub](https://github.com/facebookresearch/large_concept_model)
+| 7) Frattini 2024 - Replications, Revisions, and Reanalyses: Managing **Variance Theories in Software Engineering**                    | | [Paper](https://arxiv.org/abs/2412.12634)
+| 8) The Amazing Possibilities When We Soon Achieve **Near-Infinite Memory** For Generative AI And LLMs                                 | #llm | [Forbes](https://www.forbes.com/sites/lanceeliot/2025/01/01/the-amazing-possibilities-when-we-soon-achieve-near-infinite-memory-for-generative-ai-and-llms/)
+| 9) **Claude 3.5 Sonnet Model** Card Addendum                                                                                          | #llm | [Paper](https://www-cdn.anthropic.com/fed9cc193a14b84131812372d8d5857f8f304c52/Model_Card_Claude_3_Addendum.pdf)
+| 10) Use **Claude Desktop and MCP Servers** to Automate Your Desktop & Coding Workflow | #llm | [Blog](https://medium.com/@mknebel/how-to-automate-your-workflow-wtih-claude-desktop-and-mcp-servers-5072844b86d1)
 
 
 ## Top References of the Week (October 21 - October 27) - 2024
