@@ -58,10 +58,13 @@ Follow us on [Twitter](https://twitter.com/mobilepixel) and [GitHub](https://git
 -->
 
 ## Top References of the Week (November 25 - December 1) - 2024
-| **Reference**                                                                                                        | **Hashtag**   | **Links**                                                                                                                      |
-|----------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
-| 1) AI-powered **UI/UX testing with Claude Computer Use** | #llm | [Blog](https://medium.com/codex/has-anthropic-just-wiped-out-the-software-testing-industry-0bb6305adcc2)
-| 2) Has **Anthropic Claude** just wiped out an entire industry? | #llm | [Blog](https://medium.com/codex/has-anthropic-claude-just-wiped-out-an-entire-industry-fc1ada7a8d91)
+| **Reference**                                                                                                 | **Hashtag**   | **Links**                                                                                                                      |
+|---------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) AI-powered **UI/UX testing with Claude Computer Use**                                                      | #llm | [Blog](https://medium.com/codex/has-anthropic-just-wiped-out-the-software-testing-industry-0bb6305adcc2)
+| 2) Has **Anthropic Claude** just wiped out an entire industry?                                                | #llm | [Blog](https://medium.com/codex/has-anthropic-claude-just-wiped-out-an-entire-industry-fc1ada7a8d91)
+| 3) Getting Started with **Claude's Computer Use** Demo: A Hands-on Guide                                      | #llm | [Blog](https://dev.to/labex/getting-started-with-claudes-computer-use-demo-a-hands-on-guide-2317)
+| 4) GDD: **Generative Driven Design** - Reflective generative AI software components as a development paradigm | #llm | [Blog](https://towardsdatascience.com/gdd-generative-driven-design-0c948fb9a735)
+| 5) **Claude MCP Step-by-Step**: AI + Files + Search + Databases = Magic!                                      | #videorecording #llm | [YouTube](https://www.youtube.com/watch?v=2zJZAFK-2QI)
 
 
 
