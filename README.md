@@ -1,7 +1,13 @@
 # 🏭 Plant2<span style="color:red">ML</span> Weekly Highlights
 
 ## 2025
+- [Top References of the Week (January 6 - January 12)](#top-references-of-the-week-january-6---january-12---2024)
 - [Top References of the Week (December 30 - January 5)](#top-references-of-the-week-december-30---january-5---2024)
+
+## Top References of the Week (January 6 - January 12) - 2025
+| **Reference**                                                                                                                                | **Hashtag**   | **Links**                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) Beyond Markdown: A New Era of **Diagram-as-Code**” — Book Spotlight | #llm #diagram | [Blog](https://medium.com/@omkamal/beyond-markdown-a-new-era-of-diagram-as-code-book-spotlight-33d5308cabd6) 
 
 ## Top References of the Week (December 30 - January 5) - 2025
 | **Reference**                                                                                                                                | **Hashtag**          | **Links**                                                                                                                      |
