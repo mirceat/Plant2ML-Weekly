@@ -1,22 +1,31 @@
 # 🏭 Plant2<span style="color:red">ML</span> Weekly Highlights
 
 ## 2025
-- [Top References of the Week (January 6 - January 12)](#top-references-of-the-week-january-6---january-12---2024)
-- [Top References of the Week (December 30 - January 5)](#top-references-of-the-week-december-30---january-5---2024)
+- [Top References of the Week (January 13 - January 19)](#top-references-of-the-week-january-13---january-19---2025)
+- [Top References of the Week (January 6 - January 12)](#top-references-of-the-week-january-6---january-12---2025)
+- [Top References of the Week (December 30 - January 5)](#top-references-of-the-week-december-30---january-5---2025)
+
+## Top References of the Week (January 13 - January 19) - 2025
+| **Reference**                                                                                           | **Hashtag**   | **Links**                                                                                                                      |
+|---------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) Building **Graph RAG** for structured and unstructured data.                                         | #llm | [Blog](https://pub.towardsai.net/building-graph-rag-for-structured-and-unstructured-data-e6148bcbe9c9)
+| 2) **Ontology Modelling and Engineering** - Ontologies Prevent Hallucinations in LLM-based Applications | | [Blog](https://medium.com/@dickson.lukose/ontology-modelling-and-engineering-4df8b6b9f3a5)
+| 3) **Can AI Models Show Us How People Learn?** Impossible Languages Point a Way                         | #llm | [Blog](https://www.quantamagazine.org/can-ai-models-show-us-how-people-learn-impossible-languages-point-a-way-20250113/)
+
 
 ## Top References of the Week (January 6 - January 12) - 2025
-| **Reference**                                                                                                      | **Hashtag**   | **Links**                                                                                                                      |
-|--------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
-| 1) Beyond Markdown: A New Era of **Diagram-as-Code**” — Book Spotlight                                             | #llm #diagram | [Blog](https://medium.com/@omkamal/beyond-markdown-a-new-era-of-diagram-as-code-book-spotlight-33d5308cabd6) 
-| 2) Docker Desktop 4.37: **AI Catalog** and Command-Line Efficiency                                                 |               | [Blog](https://www.docker.com/blog/docker-desktop-4-37/)
-| 3) **Top 10 Enterprise Technology Trends in 2025**: Platform Engineering and AI Agents Lead the Charge (Part 1)    |               | [Blog](https://torstenvolk.medium.com/top-10-enterprise-technology-trends-in-2025-platform-engineering-and-ai-agents-lead-the-charge-1ff2a0f3bc11)
-| 4) **Top 10 Enterprise Technology Trends in 2025 (Part 2)**: Simplifying the Software Development Lifecycle        |               | [Blog](https://faun.pub/top-10-enterprise-technology-trends-in-2025-part-2-simplifying-the-software-development-48e8b58db323)
-| 5) **OpenAI’s o3** + Swarm + RAG Python Project: Easy AI/Chat for your Docs                                        |               | [Blog](https://pub.towardsai.net/openais-o3-swarm-rag-python-project-easy-ai-chat-for-your-docs-768c56220fba)
-| 6) **Anthropic’s Research on GenAI Building Blocks** - Anthropic’s Latest Research On Building Effective AI Agents |               | [Blog](https://cobusgreyling.medium.com/anthropics-research-on-genai-building-blocks-bb20803a2bef)
-| 7) Why **Functional Programming Languages Will Never Be Mainstream**                                               |               | [Blog](https://surferjeff.medium.com/why-functional-programming-languages-will-never-be-mainstream-e1b5a8c9e4d8)
-| 8) Nvidia Is About To Collapse The Price Of AI Models |               | [Blog](https://andrewzuo.com/nvidia-is-about-to-collapse-the-price-of-ai-models-5131c8285d04)
+| **Reference**                                                                                                                 | **Hashtag**   | **Links**                                                                                                                      |
+|-------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) Beyond Markdown: A New Era of **Diagram-as-Code**” — Book Spotlight                                                        | #llm #diagram | [Blog](https://medium.com/@omkamal/beyond-markdown-a-new-era-of-diagram-as-code-book-spotlight-33d5308cabd6) 
+| 2) Docker Desktop 4.37: **AI Catalog** and Command-Line Efficiency                                                            |               | [Blog](https://www.docker.com/blog/docker-desktop-4-37/)
+| 3) **Top 10 Enterprise Technology Trends in 2025**: Platform Engineering and AI Agents Lead the Charge (Part 1)               |               | [Blog](https://torstenvolk.medium.com/top-10-enterprise-technology-trends-in-2025-platform-engineering-and-ai-agents-lead-the-charge-1ff2a0f3bc11)
+| 4) **Top 10 Enterprise Technology Trends in 2025 (Part 2)**: Simplifying the Software Development Lifecycle                   |               | [Blog](https://faun.pub/top-10-enterprise-technology-trends-in-2025-part-2-simplifying-the-software-development-48e8b58db323)
+| 5) **OpenAI’s o3** + Swarm + RAG Python Project: Easy AI/Chat for your Docs                                                   |               | [Blog](https://pub.towardsai.net/openais-o3-swarm-rag-python-project-easy-ai-chat-for-your-docs-768c56220fba)
+| 6) **Anthropic’s Research on GenAI Building Blocks** - Anthropic’s Latest Research On Building Effective AI Agents            |               | [Blog](https://cobusgreyling.medium.com/anthropics-research-on-genai-building-blocks-bb20803a2bef)
+| 7) Why **Functional Programming Languages Will Never Be Mainstream**                                                          |               | [Blog](https://surferjeff.medium.com/why-functional-programming-languages-will-never-be-mainstream-e1b5a8c9e4d8)
+| 8) Nvidia Is About To Collapse The Price Of AI Models                                                                         |               | [Blog](https://andrewzuo.com/nvidia-is-about-to-collapse-the-price-of-ai-models-5131c8285d04)
 | 9) 🚀 The **Best RAG Frameworks** for LLMs 2025: A Complete Comparison Guide 🧠✨ - 🔍 Comparative Study of All RAG Frameworks | #llm          | [Blog](https://medium.com/@mahernaija/the-best-rag-frameworks-for-llms-2025-a-complete-comparison-guide-bfbc5e939685) 
-
+| 10) **DeepSeek-V3: Diagrammed**                                                                                               | | [Blog](https://www.vtabbott.io/deepseek-v3-diagrammed/)
 
 ## Top References of the Week (December 30 - January 5) - 2025
 | **Reference**                                                                                                                                | **Hashtag**          | **Links**                                                                                                                      |
