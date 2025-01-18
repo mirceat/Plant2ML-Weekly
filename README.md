@@ -11,6 +11,9 @@
 | 1) Building **Graph RAG** for structured and unstructured data.                                         | #llm | [Blog](https://pub.towardsai.net/building-graph-rag-for-structured-and-unstructured-data-e6148bcbe9c9)
 | 2) **Ontology Modelling and Engineering** - Ontologies Prevent Hallucinations in LLM-based Applications | | [Blog](https://medium.com/@dickson.lukose/ontology-modelling-and-engineering-4df8b6b9f3a5)
 | 3) **Can AI Models Show Us How People Learn?** Impossible Languages Point a Way                         | #llm | [Blog](https://www.quantamagazine.org/can-ai-models-show-us-how-people-learn-impossible-languages-point-a-way-20250113/)
+| 4) Building Better **GenAI**: Your Intro to RAG & Graphs - Neo4j                                        | | [Webinar](https://go.neo4j.com/WBR-240423-Intro-to-RAG_On-Demand.html)
+| 5) **GenAI and Graphs**: An Introduction to Building GenAI Apps - Neo4j                                 | | [Webinar](https://go.neo4j.com/WBR-240411-Intro-to-Graphs--GenAI_On-Demand.html)
+| 6) Free **Neo4j Data Scientist Courses** - Hands-on training. No installation required. | | [Courses](https://graphacademy.neo4j.com/categories/data-scientist/?ref=redirect/)
 
 
 ## Top References of the Week (January 6 - January 12) - 2025
