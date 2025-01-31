@@ -18,7 +18,7 @@
 | 7) Forget SaaS: **Vertical AI Agents** Are the Next Big Thing                                                                                                                | | [Blog](https://medium.com/@julio.pessan.pessan/forget-saas-vertical-ai-agents-are-the-next-big-thing-fb8576ba8806)
 | 8) **Frontend Development**: Is this the end?                                                                                                                                | | [Blog](https://levelup.gitconnected.com/frontend-development-is-this-the-end-a6134a00a610)
 | 9) **DeepSeek-R1**: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning | #llm | [Paper](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) [GitHub](https://github.com/deepseek-ai/DeepSeek-R1)
-
+| 10) How to find the **transfer function** of a system | #control | [Blog](https://x-engineer.org/transfer-function/)
 
 ## Top References of the Week (January 13 - January 19) - 2025
 | **Reference**                                                                                                       | **Hashtag** | **Links**                                                                                                                      |
