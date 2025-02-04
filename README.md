@@ -1,10 +1,16 @@
 # 🏭 Plant2<span style="color:red">ML</span> Weekly Highlights
 
 ## 2025
+- [Top References of the Week (January 27 - February 2)](#top-references-of-the-week-january-27---February-2---2025)
 - [Top References of the Week (January 20 - January 26)](#top-references-of-the-week-january-20---january-26---2025)
 - [Top References of the Week (January 13 - January 19)](#top-references-of-the-week-january-13---january-19---2025)
 - [Top References of the Week (January 6 - January 12)](#top-references-of-the-week-january-6---january-12---2025)
 - [Top References of the Week (December 30 - January 5)](#top-references-of-the-week-december-30---january-5---2025)
+
+## Top References of the Week (January 27 - February 2) - 2025
+| **Reference**                                                  | **Hashtag** | **Links**                                                                                                                      |
+|----------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) Has **Anthropic Claude** just wiped out an entire industry? | #llm | [Blog1](https://medium.com/codex/has-anthropic-claude-just-wiped-out-an-entire-industry-fc1ada7a8d91) [Blog2](https://medium.com/codex/has-anthropic-claude-just-wiped-out-an-entire-industry-part-2-3-fbc770474f76) [Blog3](https://medium.com/codex/has-anthropic-claude-just-wiped-out-an-entire-industry-part-3-3-fe58001dc33c)
 
 ## Top References of the Week (January 20 - January 26) - 2025
 | **Reference**                                                                                                                                                                | **Hashtag** | **Links**                                                                                                                      |
