@@ -9,9 +9,10 @@
 - [Top References of the Week (December 30 - January 5)](#top-references-of-the-week-december-30---january-5---2025)
 
 ## Top References of the Week (February 3 - February 9) - 2025
-| **Reference**                                                                                                                                                                                              | **Hashtag** | **Links**                                                                                                                      |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------|
-| 1) **GitHub Copilot** - Increasing collaborative development with AI | #llm        | [Book](https://clouddamcdnprodep.azureedge.net/gdc/gdcyI4VV2/original) 
+| **Reference**                                                        | **Hashtag** | **Links**                                                                                                                      |
+|----------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) **GitHub Copilot** - Increasing collaborative development with AI | #llm        | [Book](https://clouddamcdnprodep.azureedge.net/gdc/gdcyI4VV2/original)
+| 2) **LightRAG** : A GraphRAG Alternative                             | #llm #rag #knowlwdgegraph | [Blog](https://medium.com/@samarrana407/lightrag-a-graphrag-alternative-636d644a05cb) [GitHub](https://github.com/HKUDS/LightRAG.git)
 
 ## Top References of the Week (January 27 - February 2) - 2025
 | **Reference**                                                                                                                                                                                              | **Hashtag** | **Links**                                                                                                                      |
