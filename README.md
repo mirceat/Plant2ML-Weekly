@@ -1,6 +1,7 @@
 # 🏭 Plant2<span style="color:red">ML</span> Weekly Highlights
 
 ## 2025
+- [Top References of the Week (February 10 - February 16)](#top-references-of-the-week-February-10---February-16---2025)
 - [Top References of the Week (February 3 - February 9)](#top-references-of-the-week-February-3---February-9---2025)
 - [Top References of the Week (January 27 - February 2)](#top-references-of-the-week-january-27---February-2---2025)
 - [Top References of the Week (January 20 - January 26)](#top-references-of-the-week-january-20---january-26---2025)
@@ -8,18 +9,27 @@
 - [Top References of the Week (January 6 - January 12)](#top-references-of-the-week-january-6---january-12---2025)
 - [Top References of the Week (December 30 - January 5)](#top-references-of-the-week-december-30---january-5---2025)
 
+## Top References of the Week (February 10 - February 16) - 2025
+| **Reference**                                                      | **Hashtag**               | **Links**                                                                                                                      |
+|--------------------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) Microsoft launches a new generative AI script: **GenAIScript**! | #llm | [Blog](https://javascript.plainenglish.io/microsoft-launches-a-new-generative-ai-script-genaiscript-bc6dbe31bfee) [Microsoft](https://microsoft.github.io/genaiscript/) [GitHub](https://github.com/microsoft/genaiscript/)
+| 2) 274 - **Object segmentation using voronoi** and otsu            | #voronoi | [YouTube](https://www.youtube.com/watch?v=wtrKToZNgAg)
+| 3) Tournois 2010 - **2D Centroidal Voronoi Tessellations with Constraints** | #voronoi | [Paper](https://inria.hal.science/inria-00523812/PDF/centroidal-vd.pdf)
+| 4) Mayya 1994 - **Voronoi diagrams of polygons**: A framework for shape representation | #voronoi | [Paper](https://www.researchgate.net/publication/3560522_Voronoi_diagrams_of_polygons_A_framework_for_shape_representation)
+
 ## Top References of the Week (February 3 - February 9) - 2025
 | **Reference**                                                                                          | **Hashtag**               | **Links**                                                                                                                      |
 |--------------------------------------------------------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | 1) **GitHub Copilot** - Increasing collaborative development with AI                                   | #llm                      | [Book](https://clouddamcdnprodep.azureedge.net/gdc/gdcyI4VV2/original)
 | 2) **LightRAG** : A GraphRAG Alternative                                                               | #llm #rag #knowlwdgegraph | [Blog](https://medium.com/@samarrana407/lightrag-a-graphrag-alternative-636d644a05cb) [GitHub](https://github.com/HKUDS/LightRAG.git)
 | 3) Seaman 2025 - **Qualitative Research Methods in Software Engineering**: Past, Present, and Future   |                           | [Paper](https://www.computer.org/csdl/journal/ts/5555/01/10873003/24488kMqJQ4)
-| 4) Mukhtar 2018 - Automatic code generation from UML diagrams: the state-of-the-art                    |                           | [Paper](https://www.ajol.info/index.php/swj/article/view/183612)
+| 4) Mukhtar 2018 - **Automatic code generation from UML diagrams**: the state-of-the-art                |                           | [Paper](https://www.ajol.info/index.php/swj/article/view/183612)
 | 5) Mhatre 2024 - A Novel Approach for Creating **Flowcharts using Generative AI**                      | #llm #diagrams            | [Paper](https://ieeexplore.ieee.org/abstract/document/10673464)
 | 6) Alshareef 2024 - **Generative AI with Modeling and Simulation of Activity and Flow-Based Diagrams** | #llm #diagrams            | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-57523-5_8)
 | 7) Chama 2012 - **Model checking and code generation for uml diagrams using graph transformation**     | #diagrams                 | [Paper](https://d1wqtxts1xzle7.cloudfront.net/54277622/3612ijsea04-libre.pdf?1503999945=&response-content-disposition=inline%3B+filename%3DMODEL_CHECKING_AND_CODE_GENERATION_FOR_U.pdf&Expires=1738801877&Signature=g~AA9kGR~BFrqI~R0HOClDdoQz7OLEkydklV8C20lDLaA-FMpsKuKqHfrn2j-j1uWTOzsp5DSedDZJ-kxPeT-C1~U1sOfhLDqb~cmuknEZNFc0oreoNiPU~PhRYkMBC6lJgv3VlC~~rkgpX5e3eeA3Xyvd2tua53wh7ZZX9LShmBxl46bRzNBM4xjs-66DwGKiDlNu5-9sN5LcLbinMsIc6KQGLQrlHMCojcDuU4vIhXD29Ct1iAsYF266I7yT8FgxnP9kdfxLhSdWoSMe0ujDkvCx0mr3zBIyuwbGaqyJFEldAzr1dFKLACnin6DC25XiCgWHS7cRrx-DZOykg0UA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 | 8) The pros and cons of **diagram-as-code for software architecture**                                  | #llm #diagrams | [Blog](https://icepanel.medium.com/the-pros-and-cons-of-diagram-as-code-for-software-architecture-994a0bf7b6e3) [Reddit](https://www.reddit.com/r/softwarearchitecture/comments/1g4s81c/architecture_as_code_whats_the_point/?sort=new)
 | 9) A Month with **Cursor and Claude-Dev**: My Thoughts                                                 | #llm | [Blog](https://medium.com/@roelljr/a-month-with-cursor-and-claude-dev-my-thoughts-5c41ae0d4467)
+| 10) DeepSeek Has Arrived In Cursor — But Is It Better Than Claude?                                     | #llm | [Blog](https://levelup.gitconnected.com/deepseek-has-arrived-in-cursor-but-is-it-better-than-claude-d16f81fa3a14)
 
 ## Top References of the Week (January 27 - February 2) - 2025
 | **Reference**                                                                                                                                                                                              | **Hashtag** | **Links**                                                                                                                      |
