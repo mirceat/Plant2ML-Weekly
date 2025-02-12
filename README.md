@@ -16,6 +16,7 @@
 | 2) 274 - **Object segmentation using voronoi** and otsu            | #voronoi | [YouTube](https://www.youtube.com/watch?v=wtrKToZNgAg)
 | 3) Tournois 2010 - **2D Centroidal Voronoi Tessellations with Constraints** | #voronoi | [Paper](https://inria.hal.science/inria-00523812/PDF/centroidal-vd.pdf)
 | 4) Mayya 1994 - **Voronoi diagrams of polygons**: A framework for shape representation | #voronoi | [Paper](https://www.researchgate.net/publication/3560522_Voronoi_diagrams_of_polygons_A_framework_for_shape_representation)
+| 5) How Do I Store a Knowledge Graph in a Database? | #llm #knowledgegraph | [Blog](https://medium.com/building-the-open-data-stack/how-do-i-store-a-knowledge-graph-in-a-database-26fc494b587a)
 
 ## Top References of the Week (February 3 - February 9) - 2025
 | **Reference**                                                                                          | **Hashtag**               | **Links**                                                                                                                      |
