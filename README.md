@@ -17,6 +17,8 @@
 | 3) Tournois 2010 - **2D Centroidal Voronoi Tessellations with Constraints** | #voronoi | [Paper](https://inria.hal.science/inria-00523812/PDF/centroidal-vd.pdf)
 | 4) Mayya 1994 - **Voronoi diagrams of polygons**: A framework for shape representation | #voronoi | [Paper](https://www.researchgate.net/publication/3560522_Voronoi_diagrams_of_polygons_A_framework_for_shape_representation)
 | 5) How Do I Store a Knowledge Graph in a Database? | #llm #knowledgegraph | [Blog](https://medium.com/building-the-open-data-stack/how-do-i-store-a-knowledge-graph-in-a-database-26fc494b587a)
+| 6) de Lara 2024 - **Software Development... For All?** Democratisation and Automation in Software Development | #llm | [Paper](https://miso.es/pubs/icsoft_keynote.pdf)
+| 7) Schieferdecker 2025 - **Next-Gen Software Engineering** Big Models for AI-Augmented Model-Driven Software Engineering | #llm | [Paper](https://www.researchgate.net/profile/Ina-Schieferdecker/publication/384364852_Next-Gen_Software_Engineering_Big_Models_for_AI-Augmented_Model-Driven_Software_Engineering/links/67ab0ac7207c0c20fa83910d/Next-Gen-Software-Engineering-Big-Models-for-AI-Augmented-Model-Driven-Software-Engineering.pdf)
 
 ## Top References of the Week (February 3 - February 9) - 2025
 | **Reference**                                                                                          | **Hashtag**               | **Links**                                                                                                                      |
