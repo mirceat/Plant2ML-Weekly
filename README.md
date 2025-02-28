@@ -1,6 +1,7 @@
 # 🏭 Plant2<span style="color:red">ML</span> Weekly Highlights
 
 ## 2025
+- [Top References of the Week (February 17 - February 23)](#top-references-of-the-week-February-17---February-23---2025)
 - [Top References of the Week (February 10 - February 16)](#top-references-of-the-week-February-10---February-16---2025)
 - [Top References of the Week (February 3 - February 9)](#top-references-of-the-week-February-3---February-9---2025)
 - [Top References of the Week (January 27 - February 2)](#top-references-of-the-week-january-27---February-2---2025)
@@ -9,18 +10,28 @@
 - [Top References of the Week (January 6 - January 12)](#top-references-of-the-week-january-6---january-12---2025)
 - [Top References of the Week (December 30 - January 5)](#top-references-of-the-week-december-30---january-5---2025)
 
+## Top References of the Week (February 17 - February 23) - 2025
+| **Reference**                                             | **Hashtag**               | **Links**                                                                                                                      |
+|-----------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) **Making LLMs Remember** using this Prompting Technique | #llm | [Blog](https://medium.com/codex/making-llms-remember-using-this-prompting-technique-5ea97a53fc07)
+| 2) **GitHub Copilot Is Free Now…** But Should You Use It? | #llm | [Blog](https://andrewzuo.com/github-copilot-is-free-now-but-should-you-use-it-8175fd6f74e2)                                                        
+| 3) Gogolla 2025 - Developing configurations and solutions for **logical puzzles with UML and OCL** | | [Paper](https://link.springer.com/article/10.1007/s10270-025-01272-7)
+| 4) **One Click Knowledge Graph** Creation Creates Bad Graphs | #knowledgegraph | [Blog](https://medium.com/enterprise-rag/one-click-graph-creation-creates-bad-graphs-f12a806b9548)
+| 5) This new **Jetbrains Junie AI** is amazing | | [Blog](https://medium.com/coding-beauty/new-jetbrains-junie-ba939d114c63)
+
 ## Top References of the Week (February 10 - February 16) - 2025
-| **Reference**                                                      | **Hashtag**               | **Links**                                                                                                                      |
-|--------------------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| 1) Microsoft launches a new generative AI script: **GenAIScript**! | #llm | [Blog](https://javascript.plainenglish.io/microsoft-launches-a-new-generative-ai-script-genaiscript-bc6dbe31bfee) [Microsoft](https://microsoft.github.io/genaiscript/) [GitHub](https://github.com/microsoft/genaiscript/)
-| 2) 274 - **Object segmentation using voronoi** and otsu            | #voronoi | [YouTube](https://www.youtube.com/watch?v=wtrKToZNgAg)
-| 3) Tournois 2010 - **2D Centroidal Voronoi Tessellations with Constraints** | #voronoi | [Paper](https://inria.hal.science/inria-00523812/PDF/centroidal-vd.pdf)
-| 4) Mayya 1994 - **Voronoi diagrams of polygons**: A framework for shape representation | #voronoi | [Paper](https://www.researchgate.net/publication/3560522_Voronoi_diagrams_of_polygons_A_framework_for_shape_representation)
-| 5) How Do I Store a Knowledge Graph in a Database? | #llm #knowledgegraph | [Blog](https://medium.com/building-the-open-data-stack/how-do-i-store-a-knowledge-graph-in-a-database-26fc494b587a)
-| 6) de Lara 2024 - **Software Development... For All?** Democratisation and Automation in Software Development | #llm | [Paper](https://miso.es/pubs/icsoft_keynote.pdf)
+| **Reference**                                                                                                            | **Hashtag**               | **Links**                                                                                                                      |
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) Microsoft launches a new generative AI script: **GenAIScript**!                                                       | #llm | [Blog](https://javascript.plainenglish.io/microsoft-launches-a-new-generative-ai-script-genaiscript-bc6dbe31bfee) [Microsoft](https://microsoft.github.io/genaiscript/) [GitHub](https://github.com/microsoft/genaiscript/)
+| 2) 274 - **Object segmentation using voronoi** and otsu                                                                  | #voronoi | [YouTube](https://www.youtube.com/watch?v=wtrKToZNgAg)
+| 3) Tournois 2010 - **2D Centroidal Voronoi Tessellations with Constraints**                                              | #voronoi | [Paper](https://inria.hal.science/inria-00523812/PDF/centroidal-vd.pdf)
+| 4) Mayya 1994 - **Voronoi diagrams of polygons**: A framework for shape representation                                   | #voronoi | [Paper](https://www.researchgate.net/publication/3560522_Voronoi_diagrams_of_polygons_A_framework_for_shape_representation)
+| 5) How Do I Store a Knowledge Graph in a Database?                                                                       | #llm #knowledgegraph | [Blog](https://medium.com/building-the-open-data-stack/how-do-i-store-a-knowledge-graph-in-a-database-26fc494b587a)
+| 6) de Lara 2024 - **Software Development... For All?** Democratisation and Automation in Software Development            | #llm | [Paper](https://miso.es/pubs/icsoft_keynote.pdf)
 | 7) Schieferdecker 2025 - **Next-Gen Software Engineering** Big Models for AI-Augmented Model-Driven Software Engineering | #llm | [Paper](https://www.researchgate.net/profile/Ina-Schieferdecker/publication/384364852_Next-Gen_Software_Engineering_Big_Models_for_AI-Augmented_Model-Driven_Software_Engineering/links/67ab0ac7207c0c20fa83910d/Next-Gen-Software-Engineering-Big-Models-for-AI-Augmented-Model-Driven-Software-Engineering.pdf)
-| 8) **Deployment diagrams in the C4 model** | #diagrams | [Blog](https://icepanel.medium.com/deployment-diagrams-in-the-c4-model-f88b451e88fc)
-| 9) Bender 2021 - **Tiny Pointers** - Undergraduate Upends a 40-Year-Old Data Science Conjecture | | [Paper](https://arxiv.org/abs/2111.12800) [Blog](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210)
+| 8) **Deployment diagrams in the C4 model**                                                                               | #diagrams | [Blog](https://icepanel.medium.com/deployment-diagrams-in-the-c4-model-f88b451e88fc)
+| 9) Bender 2021 - **Tiny Pointers** - Undergraduate Upends a 40-Year-Old Data Science Conjecture                          | | [Paper](https://arxiv.org/abs/2111.12800) [Blog](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210)
+| 10) **Yury Malkov** — Staff Engineer, Twitter — Author of the most adopted ANN algorithm HNSW                            | #embeddings | [YouTube](https://dmitry-kan.medium.com/yury-malkov-staff-engineer-twitter-author-of-the-most-adopted-ann-algorithm-hnsw-286f95967e0)
 
 ## Top References of the Week (February 3 - February 9) - 2025
 | **Reference**                                                                                          | **Hashtag**               | **Links**                                                                                                                      |
