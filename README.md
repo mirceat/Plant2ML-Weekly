@@ -18,6 +18,10 @@
 | 3) Gogolla 2025 - Developing configurations and solutions for **logical puzzles with UML and OCL** | | [Paper](https://link.springer.com/article/10.1007/s10270-025-01272-7)
 | 4) **One Click Knowledge Graph** Creation Creates Bad Graphs | #knowledgegraph | [Blog](https://medium.com/enterprise-rag/one-click-graph-creation-creates-bad-graphs-f12a806b9548)
 | 5) This new **Jetbrains Junie AI** is amazing | | [Blog](https://medium.com/coding-beauty/new-jetbrains-junie-ba939d114c63)
+| 6) Exactly How Much **vRAM (and Which GPU)** Can Serve Your LLM? | #llm | [Blog](https://ai.gopubby.com/how-much-vram-and-which-gpu-can-serve-your-llm-08d0f973dfd2)
+| 7) Unified Knowledge Graph Model — RDF, RDF* vs LPG — The end of war | #knowledgegraph | [Blog](https://ai.plainenglish.io/unified-knowledge-graph-model-rdf-rdf-vs-lpg-the-end-of-war-a7c14d6ac76f)
+| 8) On **“Machine Readable” Ontologies** | | [Blog](https://victormorgante.medium.com/on-machine-readable-ontologies-053a67e53db8) 
+| 9) AI is breaking free — an emerging AI-UX pattern | #uiux | [Blog](https://medium.com/ai-ux-designers/ai-is-breaking-free-an-emerging-ai-ux-pattern-26894a915d93)
 
 ## Top References of the Week (February 10 - February 16) - 2025
 | **Reference**                                                                                                            | **Hashtag**               | **Links**                                                                                                                      |
