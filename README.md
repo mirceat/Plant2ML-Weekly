@@ -1,6 +1,7 @@
 # 🏭 Plant2<span style="color:red">ML</span> Weekly Highlights
 
 ## 2025
+- [Top References of the Week (July 28 - August 3)](#top-references-of-the-week-July-28---August-3---2025)
 - [Top References of the Week (February 17 - February 23)](#top-references-of-the-week-February-17---February-23---2025)
 - [Top References of the Week (February 10 - February 16)](#top-references-of-the-week-February-10---February-16---2025)
 - [Top References of the Week (February 3 - February 9)](#top-references-of-the-week-February-3---February-9---2025)
@@ -9,6 +10,14 @@
 - [Top References of the Week (January 13 - January 19)](#top-references-of-the-week-january-13---january-19---2025)
 - [Top References of the Week (January 6 - January 12)](#top-references-of-the-week-january-6---january-12---2025)
 - [Top References of the Week (December 30 - January 5)](#top-references-of-the-week-december-30---january-5---2025)
+
+## Top References of the Week (July 23 - August 3) - 2025
+| **Reference**                                                         | **Hashtag**               | **Links**                                                                                                                      |
+|-----------------------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1) Practical **Context Engineering** for Vibe Coding with Claude Code | #llm | [Blog](https://abvijaykumar.medium.com/practical-context-engineering-for-vibe-coding-with-claude-code-6aac4ee77f81)
+| 2) **Claude Code in Action**                                          | #llm #course | [Course](https://anthropic.skilljar.com/claude-code-in-action)
+
+
 
 ## Top References of the Week (February 17 - February 23) - 2025
 | **Reference**                                             | **Hashtag**               | **Links**                                                                                                                      |
