@@ -11,7 +11,7 @@
 - [Top References of the Week (January 6 - January 12)](#top-references-of-the-week-january-6---january-12---2025)
 - [Top References of the Week (December 30 - January 5)](#top-references-of-the-week-december-30---january-5---2025)
 
-## Top References of the Week (July 23 - August 3) - 2025
+## Top References of the Week (July 28 - August 3) - 2025
 | **Reference**                                                         | **Hashtag**               | **Links**                                                                                                                      |
 |-----------------------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | 1) Practical **Context Engineering** for Vibe Coding with Claude Code | #llm | [Blog](https://abvijaykumar.medium.com/practical-context-engineering-for-vibe-coding-with-claude-code-6aac4ee77f81)
